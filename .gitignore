@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+# большие данные живут на Hugging Face, не в git
+data/raw/
+data/matrices/
+data/memory/
+*.npz
+*.npy
+*.pkl

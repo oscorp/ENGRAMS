@@ -1,0 +1,57 @@
+# ENGRAMS: sequence memory
+
+[Русская версия](README.ru.md)
+
+ENGRAMS is a language model built from corpus statistics instead of backpropagation. It counts how often words occur at each distance from each other, normalizes those counts at the candidate (which turns them into pointwise mutual information), and predicts the next word with a geometric mean of the context rows, plus recall from a memory of text windows. Every row and column of every matrix is a word, so every step of a prediction can be read and traced back to the corpus.
+
+Champion on lemmas of Russian Wikipedia (about 1.1 billion objects, vocabulary of 100,005), top-1 accuracy on 300 tasks:
+
+| method | leak | gen |
+|---|---:|---:|
+| recall by n-gram voting | 94.00 | 33.67 |
+| composition over window memory, β = 32 | 92.00 | 26.00 |
+| switching by match depth | 98.67* | — |
+
+\* measured on 150 report tasks of a non-strict dump: +10/−0 against the best fixed blend (92.00), p = 0.002. *leak*: the task's window is in memory; *gen*: a ±30 neighbourhood of the task is excluded. The memory covers about 0.7% of the corpus, which is why gen is low; see part 19.
+
+## The series
+
+The project is published in 19 parts. Each part adds working code to this repository under a tag `part-NN` and comes with two articles, Russian and English, in [`docs/articles/`](docs/articles/).
+
+| # | part | status |
+|---|---|---|
+| 1 | [Overview: statistics instead of its approximation](docs/articles/en/01_overview.md) | published |
+| 2 | How we measure: leak and gen, criterion before measurement, rule 0 | planned |
+| 3–6 | Corpus, lemmas, why not BPE, segments and pairs | planned |
+| 7–10 | Rank matrices and B = Fᵀ, Zipf weights, normalization → PMI, PMI without counts | planned |
+| 11–17 | Geometric mean, clouds, window memory, recall, n-grams, switching, the champion end to end | planned |
+| 18–19 | Vocabulary: general words vs names; results and open directions | planned |
+
+## Repository layout
+
+```
+docs/articles/{ru,en}/   articles, one per part and language
+docs/figures/            figure scripts and rendered figures
+src/engrams/             library code (from part 2 on)
+scripts/                 numbered pipeline steps (from part 3 on)
+data/                    dictionaries and the author's own data; large files on Hugging Face
+```
+
+To rebuild the figures of part 1:
+
+```
+pip install numpy matplotlib
+python docs/figures/make_part01_figures.py
+```
+
+## License
+
+Source-available, not OSI open source.
+
+- Code: [PolyForm Noncommercial 1.0.0](LICENSE). Free for research, education and other non-commercial purposes.
+- Articles and the author's own data: CC BY-NC 4.0; data derived from Wikipedia: CC BY-SA 4.0. See [LICENSE-DATA.md](LICENSE-DATA.md).
+- The methods are covered by Eurasian patent EA 044182 B1 and a pending patent application. **Any commercial use requires a license from the author**: see [COMMERCIAL.md](COMMERCIAL.md) and [NOTICE.md](NOTICE.md).
+
+## Author
+
+Oleg A. Serebrennikov, Telegram channel [t.me/sequence_memory](https://t.me/sequence_memory).
