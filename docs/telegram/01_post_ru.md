@@ -1,4 +1,4 @@
-<!-- Пост для канала. Вложения: docs/figures/ru/fig01_two_roads.png (первым), docs/figures/ru/fig07_geometric_mean.mp4 (вторым). Ссылки заменить после публикации репозитория. Пост длиннее 1024 знаков: публиковать текстом, картинки отдельным сообщением или по ссылке. -->
+<!-- Пост для канала. Вложения: docs/figures/ru/fig01_two_roads.png (первым), docs/figures/ru/fig07_geometric_mean.mp4 (вторым). Пост длиннее 1024 знаков: публиковать текстом, картинки отдельным сообщением или по ссылке. -->
 
 **ENGRAMS, часть 1. Статистика вместо её аппроксимации**
 
@@ -28,6 +28,6 @@
 
 Отдельно о нестрогом режиме: если заменить «связи нет» малым числом, модель начинает строить сочетания, которых в корпусе не было, — и ошибки, и находки. Фильтры для него — открытая задача, как и пик весов Ципфа со связями «из будущего». Приглашаю желающих исследовать.
 
-📄 Статья: [ссылка на docs/articles/ru/01_overview.md]
-💻 Код: [ссылка на репозиторий, тег part-01]
-🇬🇧 English: [ссылка на docs/articles/en/01_overview.md]
+📄 Статья: https://github.com/oscorp/ENGRAMS/blob/main/docs/articles/ru/01_overview.md
+💻 Код: https://github.com/oscorp/ENGRAMS/tree/part-01
+🇬🇧 English: https://github.com/oscorp/ENGRAMS/blob/main/docs/articles/en/01_overview.md
