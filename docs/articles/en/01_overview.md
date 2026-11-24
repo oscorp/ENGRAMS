@@ -2,6 +2,10 @@
 
 *Series "ENGRAMS: sequence memory". Part 1 of 19, the overview. Code, figures and every number are in the repository under tag `part-01`.*
 
+> ## 🤝 Why we are opening this work
+>
+> **The goal of publishing it is to build a community: a group of people who are interested in this work and would like to join the project.** The code, the results and the open questions are published so that they can be checked, developed and explored together. If you are interested, write in the comments of the channel [t.me/sequence_memory](https://t.me/sequence_memory) or open an issue in this repository.
+
 This article is a map of the whole series. It has no code and very few formulas. It has one job: to show how ENGRAMS differs in kind from the familiar neural networks trained by backpropagation, and why that difference opens doors that large models keep shut. Each section ends with a pointer to the part where the topic is covered in full, with code, measurements and the dead ends we walked into.
 
 ## 1. The core idea

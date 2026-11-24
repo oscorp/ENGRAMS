@@ -2,6 +2,10 @@
 
 [Русская версия](README.ru.md)
 
+> ## 🤝 Why we are opening this work
+>
+> **The goal of publishing it is to build a community: a group of people who are interested in this work and would like to join the project.** The code, the results and the open questions are published so that they can be checked, developed and explored together. If you are interested, write in the comments of the channel [t.me/sequence_memory](https://t.me/sequence_memory) or open an issue in this repository.
+
 ENGRAMS is a language model built from corpus statistics instead of backpropagation. It counts how often words occur at each distance from each other, normalizes those counts at the candidate (which turns them into pointwise mutual information), and predicts the next word with a geometric mean of the context rows, plus recall from a memory of text windows. Every row and column of every matrix is a word, so every step of a prediction can be read and traced back to the corpus.
 
 Champion on lemmas of Russian Wikipedia (about 1.1 billion objects, vocabulary of 100,005), top-1 accuracy on 300 tasks:
