@@ -215,6 +215,7 @@ The model is built, tested and described. Many directions are only sketched, and
 - **Filters for non-strict mode**: how to keep the finds and drop the nonsense (section 4).
 - **The nnz correlation detector** for window selection (section 9).
 - **√A @ √B instead of A @ B**, and more broadly the power A^α @ B^α when multiplying co-occurrence matrices. With rows that are distributions, √A @ √Aᵀ gives the Bhattacharyya coefficient and the Hellinger metric. Not studied.
+- **Morphology at the output.** The model predicts lemmas, not word forms, so its output is a chain of dictionary forms rather than a grammatical sentence. It needs a step that turns predicted lemmas into correct forms, by agreement with the context (gender, number, case, tense) or with a separate morphological model. This step has not been built yet.
 - **More memory.** The window memory now covers two fragments of the corpus out of 584, about 0.7%. In gen mode, where the task's neighbourhood is excluded from memory, this is the main limit: composition reaches 26.00% and recall 33.67%. Eight fragments instead of two raised the best gen accuracy from 34.00% to 41.33%.
 
 ## How to read the series
