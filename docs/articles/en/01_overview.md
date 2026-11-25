@@ -4,7 +4,7 @@
 
 > ## 🤝 Why we are opening this work
 >
-> **The goal of publishing it is to build a community: a group of people who are interested in this work and would like to join the project.** The code, the results and the open questions are published so that they can be checked, developed and explored together. If you are interested, write in the comments of the channel [t.me/sequence_memory](https://t.me/sequence_memory) or open an issue in this repository.
+> **The goal of publishing it is to build a community: a group of people who are interested in this work and would like to join the project.** The code, the results and the open questions are published so that they can be checked, developed and explored together. If you are interested, write in the discussion group [t.me/sequence_memory](https://t.me/sequence_memory) or open an issue in this repository. The series is published in the channel [t.me/E_N_G_R_A_M_S](https://t.me/E_N_G_R_A_M_S); discussion happens in the group @sequence_memory linked to it. This keeps the parts of the series in order in the channel instead of mixed with questions and comments.
 
 This article is a map of the whole series. It has no code and very few formulas. It has one job: to show how ENGRAMS differs in kind from the familiar neural networks trained by backpropagation, and why that difference opens doors that large models keep shut. Each section ends with a pointer to the part where the topic is covered in full, with code, measurements and the dead ends we walked into.
 
@@ -233,4 +233,4 @@ Each part will come with runnable code, numbers that state what produced them an
 
 ---
 
-*All numbers come from the patent application (filed 21.11.2026) and the project reports; figures 1, 6 and 9 show real data, the rest are toy examples. The figures are rebuilt by `docs/figures/make_part01_figures.py`. Code is under PolyForm Noncommercial 1.0.0: free for research, education and other non-commercial purposes; commercial use requires a license from the author (see `COMMERCIAL.md`). Author's channel (in Russian): [t.me/sequence_memory](https://t.me/sequence_memory).*
+*All numbers come from the patent application (filed 21.11.2026) and the project reports; figures 1, 6 and 9 show real data, the rest are toy examples. The figures are rebuilt by `docs/figures/make_part01_figures.py`. Code is under PolyForm Noncommercial 1.0.0: free for research, education and other non-commercial purposes; commercial use requires a license from the author (see `COMMERCIAL.md`). Publications: channel [t.me/E_N_G_R_A_M_S](https://t.me/E_N_G_R_A_M_S); discussion: group [t.me/sequence_memory](https://t.me/sequence_memory) (both in Russian).*
