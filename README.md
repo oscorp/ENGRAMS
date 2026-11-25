@@ -25,7 +25,7 @@ The project is published in 19 parts. Each part adds working code to this reposi
 | # | part | status |
 |---|---|---|
 | 1 | [Overview: statistics instead of its approximation](docs/articles/en/01_overview.md) | published |
-| 2 | How we measure: leak and gen, criterion before measurement, rule 0 | planned |
+| 2 | [How we measure: tasks, leak and gen, noise and the zero rule](docs/articles/en/02_measurement.md) | published |
 | 3–6 | Corpus, lemmas, why not BPE, segments and pairs | planned |
 | 7–10 | Rank matrices and B = Fᵀ, Zipf weights, normalization → PMI, PMI without counts | planned |
 | 11–17 | Geometric mean, clouds, window memory, recall, n-grams, switching, the champion end to end | planned |
@@ -37,15 +37,18 @@ The project is published in 19 parts. Each part adds working code to this reposi
 docs/articles/{ru,en}/   articles, one per part and language
 docs/figures/            figure scripts and rendered figures
 src/engrams/             library code (from part 2 on)
-scripts/                 numbered pipeline steps (from part 3 on)
+scripts/                 scripts by part (scripts/partNN/)
 data/                    dictionaries and the author's own data; large files on Hugging Face
 ```
 
-To rebuild the figures of part 1:
+Project rules under which all numbers were obtained: [docs/RULES.en.md](docs/RULES.en.md).
+
+To rebuild the figures of parts 1 and 2:
 
 ```
 pip install numpy matplotlib
 python docs/figures/make_part01_figures.py
+python docs/figures/make_part02_figures.py
 ```
 
 ## License
