@@ -11,9 +11,9 @@ An ENGRAMS model is corpus statistics. Everything it knows it knows from text, a
 
 ## 1. Where the text comes from
 
-The corpus is the Russian Wikipedia. The source is the official dump `ruwiki-latest-pages-articles.xml.bz2` from dumps.wikimedia.org: the build script took the latest dump at the time it was run. The script was saved on 29.12.2025, and some of the fragments carry the same date, so the dump is most likely the latest one available at the end of December 2025.
+The corpus is the Russian Wikipedia. The source is the official dump `ruwiki-latest-pages-articles.xml.bz2` from dumps.wikimedia.org, i.e. the latest dump at the time of download. The dump was downloaded once, in 2025, no later than 1 October: that is the date of the first cut made from it (1751 fragments, whose text was later cleaned separately). The dump file was not found on the disks, so its exact release date is unknown.
 
-> ⚠ **[The exact dump date will be filled in from the dump file before publication.]**
+The 584 fragments of the series were rebuilt from the same dump on 29.12.2025: the first fragment was created at 13:57 that day.
 
 The build is done by `scripts/part03/download_wiki_ru.py`:
 
@@ -100,6 +100,7 @@ How lines become lemmas, why numbers drop out of the stream and where the 5.13 %
 - **The effect of the domain.** The whole corpus is an encyclopaedia. There was a measurement on other genres, but with a bug in building the tasks (part 2), so there is no answer yet.
 - **Category lines.** The recipe skips only titles, so `Категория:…` lines enter the stream. What share of the stream they take and how they affect prediction has not been measured.
 - **Duplicates and template articles** (look-alike articles about settlements, species, years). Their share has not been measured.
+- **The dump date.** We only know that the dump was downloaded no later than 1 October 2025; its release date was not kept.
 - **The number of articles.** Counting title lines gives 2,076,119; one working report records 2,087,814. The difference of 11,695 articles has not been examined.
 
 These are good tasks for anyone who wants to join.
