@@ -11,9 +11,9 @@ An ENGRAMS model is corpus statistics. Everything it knows it knows from text, a
 
 ## 1. Where the text comes from
 
-The corpus is the Russian Wikipedia. The source is the official dump `ruwiki-latest-pages-articles.xml.bz2` from dumps.wikimedia.org, i.e. the latest dump at the time of download. The dump was downloaded once, in 2025, no later than 1 October: that is the date of the first cut made from it (1751 fragments, whose text was later cleaned separately). The dump file was not found on the disks, so its exact release date is unknown.
+The corpus is the Russian Wikipedia. The source is the official dump `ruwiki-latest-pages-articles.xml.bz2` from dumps.wikimedia.org, i.e. the latest dump at the time of download. The dump was downloaded on 29.12.2025: the file `ruwiki-dump.xml.bz2` (5.79 GB) was created at 12:33 and finished at 12:59 that day. The release date of the dump itself is not in the file name (the script downloads the `latest` link).
 
-The 584 fragments of the series were rebuilt from the same dump on 29.12.2025: the first fragment was created at 13:57 that day.
+The 584 fragments of the series were cut from this dump the same day: the first fragment was created at 13:57. Earlier cuts (autumn 2025) were made from a different, "dirty" text and did not go into v3.
 
 The build is done by `scripts/part03/download_wiki_ru.py`:
 
@@ -100,7 +100,7 @@ How lines become lemmas, why numbers drop out of the stream and where the 5.13 %
 - **The effect of the domain.** The whole corpus is an encyclopaedia. There was a measurement on other genres, but with a bug in building the tasks (part 2), so there is no answer yet.
 - **Category lines.** The recipe skips only titles, so `Категория:…` lines enter the stream. What share of the stream they take and how they affect prediction has not been measured.
 - **Duplicates and template articles** (look-alike articles about settlements, species, years). Their share has not been measured.
-- **The dump date.** We only know that the dump was downloaded no later than 1 October 2025; its release date was not kept.
+- **The dump release date.** The download date (29.12.2025) is known, the release date on dumps.wikimedia.org is not.
 - **The number of articles.** Counting title lines gives 2,076,119; one working report records 2,087,814. The difference of 11,695 articles has not been examined.
 
 These are good tasks for anyone who wants to join.
