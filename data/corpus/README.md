@@ -1,0 +1,5 @@
+# Корпус / Corpus
+
+**RU.** `corpus_manifest_v3.json` — манифест 584 исходных текстовых фрагментов русской Википедии, по которым собран токенизатор v3 (часть 3). Для каждого фрагмента: имя файла, размер в байтах, md5, число статей (по строкам `### Заголовок ###`) и первый заголовок. Сами фрагменты (11,4 ГиБ) в репозиторий не входят; по md5 можно проверить, что пересобранный корпус совпадает с исходным. Подготовка текста — `scripts/part03/preprocess_v3.py`. Лицензия: CC BY-SA 4.0, данные производны от Википедии.
+
+**EN.** `corpus_manifest_v3.json` is the manifest of the 584 raw text fragments of the Russian Wikipedia from which tokenizer v3 was built (part 3). For each fragment: file name, size in bytes, md5, number of articles (by lines `### Title ###`) and the first title. The fragments themselves (11.4 GiB) are not in the repository; the md5 sums let you check that a rebuilt corpus matches the original. Text preparation: `scripts/part03/preprocess_v3.py`. License: CC BY-SA 4.0, derived from Wikipedia.

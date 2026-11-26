@@ -1,0 +1,4097 @@
+{
+ "description": "Manifest of the 584 raw text fragments of the Russian Wikipedia used for tokenizer v3 (computed by the author on the original files).",
+ "n_files": 584,
+ "total_bytes": 12240801052,
+ "total_articles_counted_by": "lines of the form '### Title ###'",
+ "total_articles": 2076119,
+ "files": [
+  {
+   "file": "chunk_000000.txt",
+   "bytes": 20977719,
+   "md5": "a7bd494c83ca059acabb289f9ad17639",
+   "articles": 523,
+   "first_title": "### Литва ###"
+  },
+  {
+   "file": "chunk_000001.txt",
+   "bytes": 20973131,
+   "md5": "6709749e612e8a95d32247aec2d1867e",
+   "articles": 534,
+   "first_title": "### Компьютер ###"
+  },
+  {
+   "file": "chunk_000002.txt",
+   "bytes": 20973997,
+   "md5": "6771d69c2789dbce67503a0706dafe21",
+   "articles": 400,
+   "first_title": "### Мера множества ###"
+  },
+  {
+   "file": "chunk_000003.txt",
+   "bytes": 20974902,
+   "md5": "72f34b679e627e96da5c9645310792e3",
+   "articles": 821,
+   "first_title": "### Суворов, Василий Иванович (генерал-аншеф) ###"
+  },
+  {
+   "file": "chunk_000004.txt",
+   "bytes": 21174578,
+   "md5": "c714ead74d9712828a03d8a35d717e45",
+   "articles": 1106,
+   "first_title": "### Католицизм ###"
+  },
+  {
+   "file": "chunk_000005.txt",
+   "bytes": 21032661,
+   "md5": "2d328434bfb785b863ac9a4b705ec083",
+   "articles": 1428,
+   "first_title": "### Августинский орден ###"
+  },
+  {
+   "file": "chunk_000006.txt",
+   "bytes": 21000665,
+   "md5": "dd46757d6c7a5a21e90b1eeaf0bd4e2d",
+   "articles": 725,
+   "first_title": "### DHCP ###"
+  },
+  {
+   "file": "chunk_000007.txt",
+   "bytes": 21009245,
+   "md5": "faf03156b63e8e3a3d449ba1dcdcda90",
+   "articles": 681,
+   "first_title": "### Саксония-Анхальт ###"
+  },
+  {
+   "file": "chunk_000008.txt",
+   "bytes": 20983948,
+   "md5": "2e9a674db31c1456d50174be5d6230e9",
+   "articles": 853,
+   "first_title": "### Ядерное оружие ###"
+  },
+  {
+   "file": "chunk_000009.txt",
+   "bytes": 21017758,
+   "md5": "97f2a704053521a9193cc50a40b39c78",
+   "articles": 936,
+   "first_title": "### Костромская область ###"
+  },
+  {
+   "file": "chunk_000010.txt",
+   "bytes": 20998841,
+   "md5": "7d7e5e7642dc525d7f25a315b7390212",
+   "articles": 1049,
+   "first_title": "### Оксазепам ###"
+  },
+  {
+   "file": "chunk_000011.txt",
+   "bytes": 20998487,
+   "md5": "754c3c4a009356a6482c8322330e90e1",
+   "articles": 771,
+   "first_title": "### Лысковский район ###"
+  },
+  {
+   "file": "chunk_000012.txt",
+   "bytes": 20985855,
+   "md5": "24b6996f23c3b23efd4fac083efb630f",
+   "articles": 813,
+   "first_title": "### Мечниковы ###"
+  },
+  {
+   "file": "chunk_000013.txt",
+   "bytes": 20977160,
+   "md5": "05f249dbc1f5ca6ce50f0b862f56f342",
+   "articles": 758,
+   "first_title": "### Гиперссылка ###"
+  },
+  {
+   "file": "chunk_000014.txt",
+   "bytes": 20982464,
+   "md5": "2298bb2fd3a9624585eae9369349d6e2",
+   "articles": 959,
+   "first_title": "### Роман (имя) ###"
+  },
+  {
+   "file": "chunk_000015.txt",
+   "bytes": 20988304,
+   "md5": "f8b34d2de2eec90a81b390b936ec9d54",
+   "articles": 973,
+   "first_title": "### Бабст, Иван Кондратьевич ###"
+  },
+  {
+   "file": "chunk_000016.txt",
+   "bytes": 20974395,
+   "md5": "f30e116c25889b012619c4cd7f07312a",
+   "articles": 970,
+   "first_title": "### Удар русских богов ###"
+  },
+  {
+   "file": "chunk_000017.txt",
+   "bytes": 20984868,
+   "md5": "acac53f09d65abc511202b336245495c",
+   "articles": 1442,
+   "first_title": "### 220 год до н. э. ###"
+  },
+  {
+   "file": "chunk_000018.txt",
+   "bytes": 21054043,
+   "md5": "d8862e31c3cdef262b5aa41db3b2c814",
+   "articles": 1229,
+   "first_title": "### Volkswagen Scirocco ###"
+  },
+  {
+   "file": "chunk_000019.txt",
+   "bytes": 20977102,
+   "md5": "13b01ca49796075c511364701335b31a",
+   "articles": 1316,
+   "first_title": "### Вертково (Новосибирск) ###"
+  },
+  {
+   "file": "chunk_000020.txt",
+   "bytes": 20984154,
+   "md5": "339c7f6a20cb194cb878f67e1ecad3c6",
+   "articles": 1162,
+   "first_title": "### ARM (компания) ###"
+  },
+  {
+   "file": "chunk_000021.txt",
+   "bytes": 20984074,
+   "md5": "3730b641d8da2fd287c2e949c9c64458",
+   "articles": 845,
+   "first_title": "### Такин ###"
+  },
+  {
+   "file": "chunk_000022.txt",
+   "bytes": 20979241,
+   "md5": "b33c1cd033bb0d64eb74ff03761a4676",
+   "articles": 1378,
+   "first_title": "### Матэ, Василий Васильевич ###"
+  },
+  {
+   "file": "chunk_000023.txt",
+   "bytes": 21019936,
+   "md5": "10374e17d22783b2ce4b53c472fc4af2",
+   "articles": 1347,
+   "first_title": "### Фата-моргана ###"
+  },
+  {
+   "file": "chunk_000024.txt",
+   "bytes": 21026954,
+   "md5": "4291eeb20504ccb8447e4d1b4e9a6537",
+   "articles": 2576,
+   "first_title": "### Дэва (провинция) ###"
+  },
+  {
+   "file": "chunk_000025.txt",
+   "bytes": 20995588,
+   "md5": "67327e4ca07ff636fd468af5e88cd6e0",
+   "articles": 1388,
+   "first_title": "### Комон, Арсисс де ###"
+  },
+  {
+   "file": "chunk_000026.txt",
+   "bytes": 20987893,
+   "md5": "b6555afc81c6b4f4f83f4c7b6212e8b6",
+   "articles": 1313,
+   "first_title": "### Никитин, Николай Васильевич (1907) ###"
+  },
+  {
+   "file": "chunk_000027.txt",
+   "bytes": 20975156,
+   "md5": "f70f1f88b91fb2d27b173060f32b2fa6",
+   "articles": 1375,
+   "first_title": "### Богодухов ###"
+  },
+  {
+   "file": "chunk_000028.txt",
+   "bytes": 20998511,
+   "md5": "228b5d287a45b6aff9a6abd6b6588843",
+   "articles": 1135,
+   "first_title": "### Беффруа ###"
+  },
+  {
+   "file": "chunk_000029.txt",
+   "bytes": 21005526,
+   "md5": "449d8e0c9f198a4a80203c710fca29c3",
+   "articles": 1416,
+   "first_title": "### Ирпень (река) ###"
+  },
+  {
+   "file": "chunk_000030.txt",
+   "bytes": 20976886,
+   "md5": "04fc9599a696b403c157f8ebb7995588",
+   "articles": 1248,
+   "first_title": "### Кукольник, Нестор Васильевич ###"
+  },
+  {
+   "file": "chunk_000031.txt",
+   "bytes": 20980400,
+   "md5": "d8e4af42e73b6c8a17f5b9643f4b9ebe",
+   "articles": 1228,
+   "first_title": "### The Elder Scrolls III: Morrowind ###"
+  },
+  {
+   "file": "chunk_000032.txt",
+   "bytes": 20972372,
+   "md5": "95a7270d876492b75e150d79810d0bc2",
+   "articles": 1162,
+   "first_title": "### Реактивность ядерного реактора ###"
+  },
+  {
+   "file": "chunk_000033.txt",
+   "bytes": 20980283,
+   "md5": "a3f51eafd7a9ff805738706e7424a6b3",
+   "articles": 1279,
+   "first_title": "### Борейские языки ###"
+  },
+  {
+   "file": "chunk_000034.txt",
+   "bytes": 20992315,
+   "md5": "87903d0e0549d6256f3f03bdecd4cf51",
+   "articles": 1352,
+   "first_title": "### Углегорск (Сахалинская область) ###"
+  },
+  {
+   "file": "chunk_000035.txt",
+   "bytes": 20985190,
+   "md5": "c6e01eb8f9dff4a3db6c5d6627320487",
+   "articles": 2249,
+   "first_title": "### Кадис ###"
+  },
+  {
+   "file": "chunk_000036.txt",
+   "bytes": 21070514,
+   "md5": "50c8ec15f31c902dbd2f5ac771716598",
+   "articles": 2696,
+   "first_title": "### Малибу-экспресс ###"
+  },
+  {
+   "file": "chunk_000037.txt",
+   "bytes": 20991297,
+   "md5": "22e6199cee5412d91a91fda296ff454d",
+   "articles": 1322,
+   "first_title": "### Квинт Серторий ###"
+  },
+  {
+   "file": "chunk_000038.txt",
+   "bytes": 20995773,
+   "md5": "8335afc39cfc550100e6e5cf06865b0c",
+   "articles": 1436,
+   "first_title": "### Верхняя Сона ###"
+  },
+  {
+   "file": "chunk_000039.txt",
+   "bytes": 21096961,
+   "md5": "a95bc563be3638b1a4204f9444bc769b",
+   "articles": 1075,
+   "first_title": "### Чаплин, Джеральдина ###"
+  },
+  {
+   "file": "chunk_000040.txt",
+   "bytes": 20988357,
+   "md5": "6fc7adae9a6990e60baf0fb1a8f85c16",
+   "articles": 1492,
+   "first_title": "### Губин, Андрей Викторович ###"
+  },
+  {
+   "file": "chunk_000041.txt",
+   "bytes": 21010179,
+   "md5": "81cca64418744c080b702f2d74d686ec",
+   "articles": 1299,
+   "first_title": "### Оранж Велодром ###"
+  },
+  {
+   "file": "chunk_000042.txt",
+   "bytes": 20977203,
+   "md5": "12924e37aff6f77cdcacbc8a114f87c5",
+   "articles": 1481,
+   "first_title": "### Геращенко, Виктор Владимирович ###"
+  },
+  {
+   "file": "chunk_000043.txt",
+   "bytes": 20984044,
+   "md5": "4034d85012d702889d5e50e9838362de",
+   "articles": 1576,
+   "first_title": "### Стариков, Сергей Викторович ###"
+  },
+  {
+   "file": "chunk_000044.txt",
+   "bytes": 20978126,
+   "md5": "6d80ec0a1fbaec79ef939a50d0bff707",
+   "articles": 1663,
+   "first_title": "### Холл, Гэс ###"
+  },
+  {
+   "file": "chunk_000045.txt",
+   "bytes": 20987315,
+   "md5": "fcb549933537a2397ce39dae6e4b6c4f",
+   "articles": 1835,
+   "first_title": "### Локсодрома ###"
+  },
+  {
+   "file": "chunk_000046.txt",
+   "bytes": 21012719,
+   "md5": "6b366b6eab1941f6158388f407755468",
+   "articles": 1628,
+   "first_title": "### Голубка (фильм, 1978) ###"
+  },
+  {
+   "file": "chunk_000047.txt",
+   "bytes": 20971975,
+   "md5": "4e11e3ab1fc4cef900012e763155a121",
+   "articles": 1631,
+   "first_title": "### Кременчугское водохранилище ###"
+  },
+  {
+   "file": "chunk_000048.txt",
+   "bytes": 20993211,
+   "md5": "9ce23b92545a382718fd04c2867b8901",
+   "articles": 1573,
+   "first_title": "### Каскад бифуркаций ###"
+  },
+  {
+   "file": "chunk_000049.txt",
+   "bytes": 20983398,
+   "md5": "9b0f147aa7ba6f10c09a5ae08a55a494",
+   "articles": 1384,
+   "first_title": "### Арумынский язык ###"
+  },
+  {
+   "file": "chunk_000050.txt",
+   "bytes": 20987910,
+   "md5": "5601a4bca9dddbacf1af5f2c994c0e66",
+   "articles": 1503,
+   "first_title": "### Warlords Battlecry ###"
+  },
+  {
+   "file": "chunk_000051.txt",
+   "bytes": 21024214,
+   "md5": "1b70316090e296ed5ab59db2e5a684e9",
+   "articles": 1500,
+   "first_title": "### Выборгская сторона ###"
+  },
+  {
+   "file": "chunk_000052.txt",
+   "bytes": 20992950,
+   "md5": "ea9a7a0f045459ae5d48e9156a8c4627",
+   "articles": 1526,
+   "first_title": "### Burger King ###"
+  },
+  {
+   "file": "chunk_000053.txt",
+   "bytes": 20986082,
+   "md5": "6608bd033ce752cec92c71cb442961db",
+   "articles": 1499,
+   "first_title": "### Дон (река, впадает в Северное море) ###"
+  },
+  {
+   "file": "chunk_000054.txt",
+   "bytes": 20979475,
+   "md5": "048480b14af8e77b860e8332c9eb2abc",
+   "articles": 1648,
+   "first_title": "### Интегратор ###"
+  },
+  {
+   "file": "chunk_000055.txt",
+   "bytes": 20988138,
+   "md5": "f9cc418faf72ee7317a0b9c6ac632f56",
+   "articles": 5663,
+   "first_title": "### Йоргенсон, Дейл ###"
+  },
+  {
+   "file": "chunk_000056.txt",
+   "bytes": 20996223,
+   "md5": "f337fdf9238d143f4d76d15ce2d4e59c",
+   "articles": 1567,
+   "first_title": "### Ситроен ###"
+  },
+  {
+   "file": "chunk_000057.txt",
+   "bytes": 21012311,
+   "md5": "df7372dcc5752762b3e1fe95b4e985d0",
+   "articles": 3149,
+   "first_title": "### Анна Клевская ###"
+  },
+  {
+   "file": "chunk_000058.txt",
+   "bytes": 20984172,
+   "md5": "102950d5055149cecde220c3f4f4f4ed",
+   "articles": 1867,
+   "first_title": "### Бланк, Ребекка Маргарет ###"
+  },
+  {
+   "file": "chunk_000059.txt",
+   "bytes": 20997936,
+   "md5": "263b8e9e618d2978fabfa7f2b2863291",
+   "articles": 1694,
+   "first_title": "### Адвокат, Дик ###"
+  },
+  {
+   "file": "chunk_000060.txt",
+   "bytes": 21009365,
+   "md5": "9abdc56f87249cb395d002e8dd8fa3b8",
+   "articles": 1675,
+   "first_title": "### Маркони ###"
+  },
+  {
+   "file": "chunk_000061.txt",
+   "bytes": 20972665,
+   "md5": "f0e55fcd8a99c74fa6b382188b607791",
+   "articles": 1592,
+   "first_title": "### Иларион Киевский ###"
+  },
+  {
+   "file": "chunk_000062.txt",
+   "bytes": 20978309,
+   "md5": "eeebbd59753b910df63c4d9968ff4970",
+   "articles": 1570,
+   "first_title": "### Смертельная инъекция ###"
+  },
+  {
+   "file": "chunk_000063.txt",
+   "bytes": 20973970,
+   "md5": "f79858e74ae9780871c2374d47f529a6",
+   "articles": 1598,
+   "first_title": "### Егошиха ###"
+  },
+  {
+   "file": "chunk_000064.txt",
+   "bytes": 20982108,
+   "md5": "3c15bc13f830a474309a0e3c696eb887",
+   "articles": 1621,
+   "first_title": "### Иоанн (Троянский) ###"
+  },
+  {
+   "file": "chunk_000065.txt",
+   "bytes": 20984969,
+   "md5": "5776c84648cadf490e9a99e9ec6ee70f",
+   "articles": 1676,
+   "first_title": "### Апокриф (литература) ###"
+  },
+  {
+   "file": "chunk_000066.txt",
+   "bytes": 20999528,
+   "md5": "ac553260842b2b8fa73ea4d1a92cd7a1",
+   "articles": 1922,
+   "first_title": "### Качанов, Роман ###"
+  },
+  {
+   "file": "chunk_000067.txt",
+   "bytes": 20975139,
+   "md5": "e6e9fca83609d60dd572400250a64d8f",
+   "articles": 1826,
+   "first_title": "### Парадокс Скулема ###"
+  },
+  {
+   "file": "chunk_000068.txt",
+   "bytes": 20985219,
+   "md5": "dee19bcdc11dac046983b6b363ec3fce",
+   "articles": 1697,
+   "first_title": "### Тормозная система ###"
+  },
+  {
+   "file": "chunk_000069.txt",
+   "bytes": 20987414,
+   "md5": "4694a179186433dec37807fb76bc0f20",
+   "articles": 1842,
+   "first_title": "### Туранец, Йозеф ###"
+  },
+  {
+   "file": "chunk_000070.txt",
+   "bytes": 20978733,
+   "md5": "d4dcb121cce96d6f29aba89e98626e08",
+   "articles": 1819,
+   "first_title": "### Лудза ###"
+  },
+  {
+   "file": "chunk_000071.txt",
+   "bytes": 20977653,
+   "md5": "721d91e88150afac7c2f65286d85e7f1",
+   "articles": 1722,
+   "first_title": "### Киевнаучфильм ###"
+  },
+  {
+   "file": "chunk_000072.txt",
+   "bytes": 20994546,
+   "md5": "24353d7c8622633869ccda38b3ba63ef",
+   "articles": 1913,
+   "first_title": "### Шотландская дева ###"
+  },
+  {
+   "file": "chunk_000073.txt",
+   "bytes": 20973768,
+   "md5": "04d6620d5d3cd49a82231fe848cf7e27",
+   "articles": 1794,
+   "first_title": "### GrimE ###"
+  },
+  {
+   "file": "chunk_000074.txt",
+   "bytes": 20973152,
+   "md5": "a15698d3e0716f5d20cf5372d68cb4ba",
+   "articles": 1975,
+   "first_title": "### Telia Eesti ###"
+  },
+  {
+   "file": "chunk_000075.txt",
+   "bytes": 20971616,
+   "md5": "41da67d0631ed6e321b32776a211d485",
+   "articles": 1833,
+   "first_title": "### Чемпионат Европы по футболу 2012 ###"
+  },
+  {
+   "file": "chunk_000076.txt",
+   "bytes": 20978979,
+   "md5": "32a8e34f862db1175d717fda7ab3059d",
+   "articles": 1872,
+   "first_title": "### Святополк-Мирский ###"
+  },
+  {
+   "file": "chunk_000077.txt",
+   "bytes": 20972924,
+   "md5": "3e8ce50dca19e0759556bc72c083876a",
+   "articles": 2383,
+   "first_title": "### Аксай (приток Акташа) ###"
+  },
+  {
+   "file": "chunk_000078.txt",
+   "bytes": 20974430,
+   "md5": "2a3e5fc2ba6292de08ee5e85b596cb25",
+   "articles": 4737,
+   "first_title": "### Вальдмюллер ###"
+  },
+  {
+   "file": "chunk_000079.txt",
+   "bytes": 20972451,
+   "md5": "b5875f240b3c952c217fff07778faab9",
+   "articles": 4251,
+   "first_title": "### Токовое зеркало ###"
+  },
+  {
+   "file": "chunk_000080.txt",
+   "bytes": 20978791,
+   "md5": "0d33d1b27bcf948c4d45fe0aa6cc8ff2",
+   "articles": 2417,
+   "first_title": "### Грегор, Нора ###"
+  },
+  {
+   "file": "chunk_000081.txt",
+   "bytes": 20996262,
+   "md5": "4ffa80cdb19a17745c5e1642c0731116",
+   "articles": 1949,
+   "first_title": "### Барранкилья ###"
+  },
+  {
+   "file": "chunk_000082.txt",
+   "bytes": 20973192,
+   "md5": "51bb2b2cd48c0d495650c3c75fe5081d",
+   "articles": 2247,
+   "first_title": "### Случай с Мантеллом ###"
+  },
+  {
+   "file": "chunk_000083.txt",
+   "bytes": 20971662,
+   "md5": "d3aec196ae5cfea91965a6c2b0d31d17",
+   "articles": 3095,
+   "first_title": "### Генерал-полковник юстиции (СССР и Россия) ###"
+  },
+  {
+   "file": "chunk_000084.txt",
+   "bytes": 20971827,
+   "md5": "97ce0d03d1005643aeb843899af1ee3a",
+   "articles": 8771,
+   "first_title": "### Никульское ###"
+  },
+  {
+   "file": "chunk_000085.txt",
+   "bytes": 20974295,
+   "md5": "8fb85bfc1317fa81168d94077a31522c",
+   "articles": 5582,
+   "first_title": "### Лихтенау (Баден) ###"
+  },
+  {
+   "file": "chunk_000086.txt",
+   "bytes": 20971906,
+   "md5": "0e56917d5017c4987f58cafbae113f70",
+   "articles": 4193,
+   "first_title": "### Links 2-3-4 ###"
+  },
+  {
+   "file": "chunk_000087.txt",
+   "bytes": 20980931,
+   "md5": "d456c2bb553bfa8054ca7b8395421ca6",
+   "articles": 3446,
+   "first_title": "### Бемба (язык) ###"
+  },
+  {
+   "file": "chunk_000088.txt",
+   "bytes": 20973759,
+   "md5": "5919dc1eace0942d98174c6ea52568ac",
+   "articles": 2219,
+   "first_title": "### Blue Planet corporation ###"
+  },
+  {
+   "file": "chunk_000089.txt",
+   "bytes": 20982982,
+   "md5": "0823ba211eabaa5e4161ae7cf1751441",
+   "articles": 2088,
+   "first_title": "### Иванов, Анатолий Васильевич (режиссёр) ###"
+  },
+  {
+   "file": "chunk_000090.txt",
+   "bytes": 21003707,
+   "md5": "4e315d5e265fc6ddc5f3b5fd791c554d",
+   "articles": 1991,
+   "first_title": "### Фосфолипаза B ###"
+  },
+  {
+   "file": "chunk_000091.txt",
+   "bytes": 20978244,
+   "md5": "4e369f19b201a0da581685928df959e9",
+   "articles": 2697,
+   "first_title": "### Барриос де Чаморро, Виолета ###"
+  },
+  {
+   "file": "chunk_000092.txt",
+   "bytes": 20991647,
+   "md5": "233aac8835b646bee8e18fe41ee35c90",
+   "articles": 2699,
+   "first_title": "### OECD ###"
+  },
+  {
+   "file": "chunk_000093.txt",
+   "bytes": 20975206,
+   "md5": "240133aef1d2d560bed2994b7263abff",
+   "articles": 2880,
+   "first_title": "### Куда приводят мечты ###"
+  },
+  {
+   "file": "chunk_000094.txt",
+   "bytes": 20976694,
+   "md5": "12a3371ae7cfd83b5439048f74c76412",
+   "articles": 4247,
+   "first_title": "### Королевич, Александр Дмитриевич ###"
+  },
+  {
+   "file": "chunk_000095.txt",
+   "bytes": 20976572,
+   "md5": "3cfa8441a1a24d111e03916ea8ea4778",
+   "articles": 2137,
+   "first_title": "### Серапион (Шевалеевский) ###"
+  },
+  {
+   "file": "chunk_000096.txt",
+   "bytes": 20979809,
+   "md5": "6ce96bcd8c3b624b0a083fbaf8197900",
+   "articles": 2438,
+   "first_title": "### Фельдман, Вильгельм ###"
+  },
+  {
+   "file": "chunk_000097.txt",
+   "bytes": 21019563,
+   "md5": "17eae4f2c77b9d0afa22789397988207",
+   "articles": 2362,
+   "first_title": "### Эхинацеи настойка ###"
+  },
+  {
+   "file": "chunk_000098.txt",
+   "bytes": 20976114,
+   "md5": "f2f6057e3aa17e0f06d6a33dbff2108e",
+   "articles": 2059,
+   "first_title": "### Выша ###"
+  },
+  {
+   "file": "chunk_000099.txt",
+   "bytes": 20976370,
+   "md5": "667f73c5c3e4a2ac085329d39f455f8d",
+   "articles": 2181,
+   "first_title": "### Маршала Покрышкина (станция метро) ###"
+  },
+  {
+   "file": "chunk_000100.txt",
+   "bytes": 20973902,
+   "md5": "fa65d4e20daebdb4207190c672804d47",
+   "articles": 2349,
+   "first_title": "### Апексимова, Ирина Викторовна ###"
+  },
+  {
+   "file": "chunk_000101.txt",
+   "bytes": 20978997,
+   "md5": "03bd31ce343edcc33b97a681de6244fe",
+   "articles": 2292,
+   "first_title": "### Преллер ###"
+  },
+  {
+   "file": "chunk_000102.txt",
+   "bytes": 20982074,
+   "md5": "96c046a7210dc8d312d6f6d280ba9aaa",
+   "articles": 2604,
+   "first_title": "### Рохо ###"
+  },
+  {
+   "file": "chunk_000103.txt",
+   "bytes": 20981266,
+   "md5": "890178754c47fded8629a7ad71bcef08",
+   "articles": 2068,
+   "first_title": "### Черницк ###"
+  },
+  {
+   "file": "chunk_000104.txt",
+   "bytes": 20971940,
+   "md5": "a133769d9766d3799b69310f9e2c3ccd",
+   "articles": 2119,
+   "first_title": "### Уничтожение воробьёв ###"
+  },
+  {
+   "file": "chunk_000105.txt",
+   "bytes": 20972650,
+   "md5": "47e2ee6ef52d657c815524934319956b",
+   "articles": 2566,
+   "first_title": "### Шари (значения) ###"
+  },
+  {
+   "file": "chunk_000106.txt",
+   "bytes": 20991077,
+   "md5": "de95c564f13f9664b1ac8fedf419d877",
+   "articles": 3265,
+   "first_title": "### Google.by ###"
+  },
+  {
+   "file": "chunk_000107.txt",
+   "bytes": 20976090,
+   "md5": "be25051ca9ebcd6af5e1bbba27c3c2b5",
+   "articles": 2429,
+   "first_title": "### Нестеренко, Юрий Иванович ###"
+  },
+  {
+   "file": "chunk_000108.txt",
+   "bytes": 20980782,
+   "md5": "2ee598baac9a2763ee5c16c435572e51",
+   "articles": 2164,
+   "first_title": "### Качюшите, Лина Бенедиктовна ###"
+  },
+  {
+   "file": "chunk_000109.txt",
+   "bytes": 20984939,
+   "md5": "0b4ff21baa11f05ce5c977338c475bb8",
+   "articles": 2525,
+   "first_title": "### Леин, Вольдемар Петрович ###"
+  },
+  {
+   "file": "chunk_000110.txt",
+   "bytes": 20980251,
+   "md5": "c2c99609f23bbd1ca24ea00188ddc675",
+   "articles": 2031,
+   "first_title": "### Vis.35 ###"
+  },
+  {
+   "file": "chunk_000111.txt",
+   "bytes": 20983049,
+   "md5": "ab23a90d6f23d1085fd88a862a3836a3",
+   "articles": 2530,
+   "first_title": "### Бенсерад, Исаак де ###"
+  },
+  {
+   "file": "chunk_000112.txt",
+   "bytes": 20973152,
+   "md5": "9a53dcd88dc0d9ec1802a2e610649d2c",
+   "articles": 2593,
+   "first_title": "### Катынь (фильм) ###"
+  },
+  {
+   "file": "chunk_000113.txt",
+   "bytes": 20995813,
+   "md5": "f0b5853ca19e2c28d4b7790af6b86000",
+   "articles": 2441,
+   "first_title": "### Севморпуть (лихтеровоз) ###"
+  },
+  {
+   "file": "chunk_000114.txt",
+   "bytes": 20977551,
+   "md5": "70b6c0f4a2515a508acd24a2ae56789a",
+   "articles": 2378,
+   "first_title": "### Сусенгерд ###"
+  },
+  {
+   "file": "chunk_000115.txt",
+   "bytes": 20976523,
+   "md5": "11b47b78c2c82cc147a155934b8f637b",
+   "articles": 2909,
+   "first_title": "### Pseudohynobius ###"
+  },
+  {
+   "file": "chunk_000116.txt",
+   "bytes": 20979816,
+   "md5": "3b9309650e2c8afc3a461cfebb2b66bf",
+   "articles": 2661,
+   "first_title": "### Корчагин, Иван ###"
+  },
+  {
+   "file": "chunk_000117.txt",
+   "bytes": 21000070,
+   "md5": "2f942008e2e2b78871642904d2e2ca2c",
+   "articles": 2386,
+   "first_title": "### Крапивна (Рославльский район) ###"
+  },
+  {
+   "file": "chunk_000118.txt",
+   "bytes": 21065132,
+   "md5": "142be0395e949331895d1a02807f7fdb",
+   "articles": 2334,
+   "first_title": "### Речицапиво ###"
+  },
+  {
+   "file": "chunk_000119.txt",
+   "bytes": 20974379,
+   "md5": "0cb44b74f10068a38a1a6e17d7192521",
+   "articles": 9042,
+   "first_title": "### Протокол передачи данных ###"
+  },
+  {
+   "file": "chunk_000120.txt",
+   "bytes": 21003430,
+   "md5": "6f6f300fe0cfc82935839c69e3a0646c",
+   "articles": 2905,
+   "first_title": "### Женщина-кошка (фильм) ###"
+  },
+  {
+   "file": "chunk_000121.txt",
+   "bytes": 20977630,
+   "md5": "1ca66d1613066a99f2d00a906881752b",
+   "articles": 3790,
+   "first_title": "### Книга истории франков ###"
+  },
+  {
+   "file": "chunk_000122.txt",
+   "bytes": 21009942,
+   "md5": "ce27bdbfc6a0a20d751012caa6f3b726",
+   "articles": 3507,
+   "first_title": "### Албуфейра ###"
+  },
+  {
+   "file": "chunk_000123.txt",
+   "bytes": 21021366,
+   "md5": "4a1207398fef2c49b97899bc5779e061",
+   "articles": 3076,
+   "first_title": "### Операционный блок ###"
+  },
+  {
+   "file": "chunk_000124.txt",
+   "bytes": 20982405,
+   "md5": "d1f1120b9f4ae2d72a20da01b052dc49",
+   "articles": 6343,
+   "first_title": "### Баумгартнер, Жольт ###"
+  },
+  {
+   "file": "chunk_000125.txt",
+   "bytes": 20974794,
+   "md5": "655352d4291bdb7fa247bbba143ffd7b",
+   "articles": 2657,
+   "first_title": "### Лазерный дальномер ###"
+  },
+  {
+   "file": "chunk_000126.txt",
+   "bytes": 20971750,
+   "md5": "01cbf72ebdc8f05001aa38db5b5e7a6e",
+   "articles": 7006,
+   "first_title": "### Интерблок ###"
+  },
+  {
+   "file": "chunk_000127.txt",
+   "bytes": 20981464,
+   "md5": "4202685a7d59ef6a8677cae97896df5d",
+   "articles": 6886,
+   "first_title": "### Гырмен (община) ###"
+  },
+  {
+   "file": "chunk_000128.txt",
+   "bytes": 20978200,
+   "md5": "bfa51a3bf27f94e4ff9e30676e77c6e8",
+   "articles": 2637,
+   "first_title": "### Стоматозух ###"
+  },
+  {
+   "file": "chunk_000129.txt",
+   "bytes": 20998068,
+   "md5": "b2276fb278ded5aaab174535f08352f6",
+   "articles": 3441,
+   "first_title": "### Летняя Универсиада 1973 ###"
+  },
+  {
+   "file": "chunk_000130.txt",
+   "bytes": 20983531,
+   "md5": "67eeb4ab9d9ea8212e95f6f22523e667",
+   "articles": 2491,
+   "first_title": "### Центр информатики и электроники ###"
+  },
+  {
+   "file": "chunk_000131.txt",
+   "bytes": 20981468,
+   "md5": "f486e164a1621c0a0032a57e7f87fbbe",
+   "articles": 2677,
+   "first_title": "### Тегель ###"
+  },
+  {
+   "file": "chunk_000132.txt",
+   "bytes": 20971961,
+   "md5": "7e75b0ebd1534d64d36a9e65f1900ba1",
+   "articles": 2522,
+   "first_title": "### Ксавье ###"
+  },
+  {
+   "file": "chunk_000133.txt",
+   "bytes": 20973006,
+   "md5": "4c64c7a6d6dba12d7881a3e5cb0f47ed",
+   "articles": 3171,
+   "first_title": "### Эйхэйдзи ###"
+  },
+  {
+   "file": "chunk_000134.txt",
+   "bytes": 20986593,
+   "md5": "5a166c292942df5ae19c6990bd477461",
+   "articles": 2625,
+   "first_title": "### Рио-Кларо (коммуна) ###"
+  },
+  {
+   "file": "chunk_000135.txt",
+   "bytes": 20996502,
+   "md5": "09386fea826be126bbe4581e4665a237",
+   "articles": 2501,
+   "first_title": "### Албина ###"
+  },
+  {
+   "file": "chunk_000136.txt",
+   "bytes": 20972977,
+   "md5": "d38ebc7ae5a06da87fa0f440ed35fd3b",
+   "articles": 2470,
+   "first_title": "### Капелла Бранкаччи ###"
+  },
+  {
+   "file": "chunk_000137.txt",
+   "bytes": 20974470,
+   "md5": "891f1fdc67dbf39907c4d1eeffa26354",
+   "articles": 2589,
+   "first_title": "### Петрович, Горан ###"
+  },
+  {
+   "file": "chunk_000138.txt",
+   "bytes": 20971801,
+   "md5": "345f75e2bf7160f9df007873047b2c22",
+   "articles": 2656,
+   "first_title": "### Сиазань ###"
+  },
+  {
+   "file": "chunk_000139.txt",
+   "bytes": 20980960,
+   "md5": "9e7374411e8701e1e37c1f89d9a2c3eb",
+   "articles": 2603,
+   "first_title": "### Caramelldansen ###"
+  },
+  {
+   "file": "chunk_000140.txt",
+   "bytes": 20985943,
+   "md5": "2ebd1a8993ea3dcbb2046097a83d76c0",
+   "articles": 2416,
+   "first_title": "### Чемпионат Абхазии по футболу ###"
+  },
+  {
+   "file": "chunk_000141.txt",
+   "bytes": 20986271,
+   "md5": "fb590853fb042c6b21fc9cf8cb995d1e",
+   "articles": 2697,
+   "first_title": "### Лопырёва, Виктория Петровна ###"
+  },
+  {
+   "file": "chunk_000142.txt",
+   "bytes": 20989752,
+   "md5": "57d234786b7f53863648951932333c04",
+   "articles": 3789,
+   "first_title": "### Verjnuarmu ###"
+  },
+  {
+   "file": "chunk_000143.txt",
+   "bytes": 20972046,
+   "md5": "a0355ff1986198b30c98f568d55b6ef9",
+   "articles": 2584,
+   "first_title": "### Харачоевский, Зелимхан ###"
+  },
+  {
+   "file": "chunk_000144.txt",
+   "bytes": 20972080,
+   "md5": "2881de6e98fb3b48a1403f794a19c41c",
+   "articles": 2622,
+   "first_title": "### Гейтскелл, Хью ###"
+  },
+  {
+   "file": "chunk_000145.txt",
+   "bytes": 20972001,
+   "md5": "cfd58bbc2f32b16da5b57c3382d3ac6c",
+   "articles": 2451,
+   "first_title": "### Берлинский договор (1926) ###"
+  },
+  {
+   "file": "chunk_000146.txt",
+   "bytes": 20972210,
+   "md5": "43ffbc71d3a9ae4ed7f7e7e94f4a6b9b",
+   "articles": 2892,
+   "first_title": "### Цэцэрлэг ###"
+  },
+  {
+   "file": "chunk_000147.txt",
+   "bytes": 20997286,
+   "md5": "d1f184187496c7cdcc23e022b4e135ee",
+   "articles": 2902,
+   "first_title": "### Ордынцев-Кострицкий, Михаил Дмитриевич ###"
+  },
+  {
+   "file": "chunk_000148.txt",
+   "bytes": 20989341,
+   "md5": "fed44dedba3bc914f18aef1e572dc77f",
+   "articles": 2717,
+   "first_title": "### Ветчачива, Апхисит ###"
+  },
+  {
+   "file": "chunk_000149.txt",
+   "bytes": 20984564,
+   "md5": "a776abd02cc78616c805f850e9899ec0",
+   "articles": 2650,
+   "first_title": "### Гадашев, Эльшад Эльдарович ###"
+  },
+  {
+   "file": "chunk_000150.txt",
+   "bytes": 20976317,
+   "md5": "562940e7d6f0df3d5ee896b8117ed301",
+   "articles": 2673,
+   "first_title": "### Sly & the Family Stone ###"
+  },
+  {
+   "file": "chunk_000151.txt",
+   "bytes": 20999808,
+   "md5": "84313e4ec38ca1307ad4e2485f6e8cc5",
+   "articles": 2569,
+   "first_title": "### Карамелизация ###"
+  },
+  {
+   "file": "chunk_000152.txt",
+   "bytes": 20976389,
+   "md5": "52b44d3e44e761d89233190792b47e72",
+   "articles": 4263,
+   "first_title": "### Квинслендская консерватория ###"
+  },
+  {
+   "file": "chunk_000153.txt",
+   "bytes": 20977385,
+   "md5": "08a73b2ff9eb9e0a822b601a02f1643b",
+   "articles": 3629,
+   "first_title": "### Янг, Эшли ###"
+  },
+  {
+   "file": "chunk_000154.txt",
+   "bytes": 20972915,
+   "md5": "f0a0031644b39f01f84f89e2092f20b0",
+   "articles": 2552,
+   "first_title": "### Морасан, Франсиско ###"
+  },
+  {
+   "file": "chunk_000155.txt",
+   "bytes": 20975399,
+   "md5": "1344c6186555bf7db4613b62d178ddb3",
+   "articles": 2844,
+   "first_title": "### Хаспельмат, Мартин ###"
+  },
+  {
+   "file": "chunk_000156.txt",
+   "bytes": 20971661,
+   "md5": "e8873591f1ead498686130ffa7d33675",
+   "articles": 2657,
+   "first_title": "### Лаконос двудомный ###"
+  },
+  {
+   "file": "chunk_000157.txt",
+   "bytes": 20997873,
+   "md5": "3773ecb9e83db493e00c3109c7f37466",
+   "articles": 2893,
+   "first_title": "### Laeliinae ###"
+  },
+  {
+   "file": "chunk_000158.txt",
+   "bytes": 20977312,
+   "md5": "024174c10a2ba2b5001b96426d34e4a6",
+   "articles": 2752,
+   "first_title": "### Необыкновенное приключение некоего Ганса Пфааля ###"
+  },
+  {
+   "file": "chunk_000159.txt",
+   "bytes": 20973056,
+   "md5": "f8cff03bc543864ed113ea1cfe45dfe7",
+   "articles": 2929,
+   "first_title": "### Tyrannoraptora ###"
+  },
+  {
+   "file": "chunk_000160.txt",
+   "bytes": 20973344,
+   "md5": "5f815cfcf8c62fc3cb8c659926c3c211",
+   "articles": 2820,
+   "first_title": "### Залив Принцессы Шарлотты ###"
+  },
+  {
+   "file": "chunk_000161.txt",
+   "bytes": 20987773,
+   "md5": "21d4c12d94df2f29126a4807e6b7eac8",
+   "articles": 2808,
+   "first_title": "### S&P/ASX 50 ###"
+  },
+  {
+   "file": "chunk_000162.txt",
+   "bytes": 20975530,
+   "md5": "f5c841b2cd2609ab5c00eb28cb318400",
+   "articles": 2783,
+   "first_title": "### Шеридан, Тони ###"
+  },
+  {
+   "file": "chunk_000163.txt",
+   "bytes": 20971523,
+   "md5": "badfe63e4a919303c8bdb55c140490d4",
+   "articles": 2547,
+   "first_title": "### Богдан, Сергей Леонидович ###"
+  },
+  {
+   "file": "chunk_000164.txt",
+   "bytes": 20974772,
+   "md5": "747a2d3d977c794bc4229253775cc9fb",
+   "articles": 3653,
+   "first_title": "### Список крупнейших терактов в ходе Иракской войны ###"
+  },
+  {
+   "file": "chunk_000165.txt",
+   "bytes": 20981608,
+   "md5": "b211f4fa33057ae2d9da2c3bd3881942",
+   "articles": 4402,
+   "first_title": "### Мучения святого Антония ###"
+  },
+  {
+   "file": "chunk_000166.txt",
+   "bytes": 20974805,
+   "md5": "145566e29aa5241ac757d6404ed6cf67",
+   "articles": 3018,
+   "first_title": "### Научно-исследовательский институт аэрокосмической информатики Азербайджана ###"
+  },
+  {
+   "file": "chunk_000167.txt",
+   "bytes": 20975916,
+   "md5": "433301e58546fcfa6dbf83c88280654b",
+   "articles": 3111,
+   "first_title": "### Боргарнес ###"
+  },
+  {
+   "file": "chunk_000168.txt",
+   "bytes": 20971824,
+   "md5": "9050578167778ba051ba7b8bda36c7c5",
+   "articles": 2897,
+   "first_title": "### Институт электрофизики УрО РАН ###"
+  },
+  {
+   "file": "chunk_000169.txt",
+   "bytes": 20974078,
+   "md5": "a262c1ffbe03c67185009c61889641bf",
+   "articles": 5684,
+   "first_title": "### Кикс ###"
+  },
+  {
+   "file": "chunk_000170.txt",
+   "bytes": 20988272,
+   "md5": "c1eb0b36c579582c7cec6ffd399b9308",
+   "articles": 2874,
+   "first_title": "### Бойни ###"
+  },
+  {
+   "file": "chunk_000171.txt",
+   "bytes": 20977347,
+   "md5": "19351dd14eb495f5d44e69b8667f6234",
+   "articles": 3086,
+   "first_title": "### Никитин, Евгений ###"
+  },
+  {
+   "file": "chunk_000172.txt",
+   "bytes": 20989866,
+   "md5": "280e9e10c2b9bce72269151a05890bb6",
+   "articles": 2978,
+   "first_title": "### Приморское сельское поселение ###"
+  },
+  {
+   "file": "chunk_000173.txt",
+   "bytes": 20980783,
+   "md5": "5914266e5572faaff87ef4a7ea246405",
+   "articles": 2775,
+   "first_title": "### Мэрилебон-роуд ###"
+  },
+  {
+   "file": "chunk_000174.txt",
+   "bytes": 20972069,
+   "md5": "756d423f780639a1c1b5fd0d2255345e",
+   "articles": 3091,
+   "first_title": "### Колегаев, Андрей Лукич ###"
+  },
+  {
+   "file": "chunk_000175.txt",
+   "bytes": 20978720,
+   "md5": "58aad1d77db389fc737675f65cb84ec2",
+   "articles": 3151,
+   "first_title": "### Транденкова, Марина Евгеньевна ###"
+  },
+  {
+   "file": "chunk_000176.txt",
+   "bytes": 20997438,
+   "md5": "14c6cb37ee0fb4e3f31b234316e21143",
+   "articles": 3422,
+   "first_title": "### Neverwinter Nights: Darkness over Daggerford ###"
+  },
+  {
+   "file": "chunk_000177.txt",
+   "bytes": 20975431,
+   "md5": "b2f4867197dd132a5d9f46c6f1e6a855",
+   "articles": 3204,
+   "first_title": "### IPlanet ###"
+  },
+  {
+   "file": "chunk_000178.txt",
+   "bytes": 20976206,
+   "md5": "a41289a3177c8e5a89ae1a53b284bd60",
+   "articles": 3087,
+   "first_title": "### Кургано-Головинский сельсовет ###"
+  },
+  {
+   "file": "chunk_000179.txt",
+   "bytes": 20972147,
+   "md5": "f8f2a38fa12ac3974c3fe41182d7efdc",
+   "articles": 3177,
+   "first_title": "### Научно-измерительный пункт ###"
+  },
+  {
+   "file": "chunk_000180.txt",
+   "bytes": 20988742,
+   "md5": "7bee642f615b8984489ce35b7a1e929d",
+   "articles": 3212,
+   "first_title": "### Серия почтовых марок ###"
+  },
+  {
+   "file": "chunk_000181.txt",
+   "bytes": 20980016,
+   "md5": "0aceba98005787e030f08e861005a57a",
+   "articles": 4134,
+   "first_title": "### Джамушлу ###"
+  },
+  {
+   "file": "chunk_000182.txt",
+   "bytes": 20974179,
+   "md5": "f5ca1e47c717b0fcb20335fbee57d8b0",
+   "articles": 4026,
+   "first_title": "### Antonov Airlines ###"
+  },
+  {
+   "file": "chunk_000183.txt",
+   "bytes": 21074541,
+   "md5": "22133c20726e371572a4da3d1f2ecbf8",
+   "articles": 3100,
+   "first_title": "### Гильом III (граф Тулузы) ###"
+  },
+  {
+   "file": "chunk_000184.txt",
+   "bytes": 21086488,
+   "md5": "295ae35b6edd8c624854a7d12c87ef8d",
+   "articles": 4162,
+   "first_title": "### Список министров внутренних дел Украины ###"
+  },
+  {
+   "file": "chunk_000185.txt",
+   "bytes": 20975021,
+   "md5": "7ad7740a508f5c38d62cd45c04f411e6",
+   "articles": 2959,
+   "first_title": "### Московский государственный академический симфонический оркестр ###"
+  },
+  {
+   "file": "chunk_000186.txt",
+   "bytes": 20980370,
+   "md5": "192e4d272e18210377f0c1f3fa7338b4",
+   "articles": 3321,
+   "first_title": "### Каменно-Верховское сельское поселение ###"
+  },
+  {
+   "file": "chunk_000187.txt",
+   "bytes": 20976436,
+   "md5": "c29a3799682625fb79cb837da3407633",
+   "articles": 4659,
+   "first_title": "### Фрегат (радиолокационная станция) ###"
+  },
+  {
+   "file": "chunk_000188.txt",
+   "bytes": 20975491,
+   "md5": "74efe7909234c642195a114bb4351915",
+   "articles": 3487,
+   "first_title": "### Маршал, Уильям, 1-й граф Пембрук ###"
+  },
+  {
+   "file": "chunk_000189.txt",
+   "bytes": 20973478,
+   "md5": "204bda22db66e5a7404c49c66ebde5b5",
+   "articles": 3418,
+   "first_title": "### Греция на летних Олимпийских играх 1952 ###"
+  },
+  {
+   "file": "chunk_000190.txt",
+   "bytes": 20972125,
+   "md5": "94dd773282907ac2f55d11644106da68",
+   "articles": 3140,
+   "first_title": "### Атратское сельское поселение ###"
+  },
+  {
+   "file": "chunk_000191.txt",
+   "bytes": 20981958,
+   "md5": "6dad01948a90387446cc632a640432a1",
+   "articles": 3316,
+   "first_title": "### Komatsu D275A ###"
+  },
+  {
+   "file": "chunk_000192.txt",
+   "bytes": 20973141,
+   "md5": "b99cfe327532586e961c028e8384eab4",
+   "articles": 3301,
+   "first_title": "### Городок-17 ###"
+  },
+  {
+   "file": "chunk_000193.txt",
+   "bytes": 20972419,
+   "md5": "4c4bbbcdb8f6888fd477dd45e5bd9426",
+   "articles": 3756,
+   "first_title": "### Монголия на летних Олимпийских играх 1988 ###"
+  },
+  {
+   "file": "chunk_000194.txt",
+   "bytes": 20973208,
+   "md5": "4680479cf1c32b7742ca6c364e04adf0",
+   "articles": 3455,
+   "first_title": "### Бельгия на летних Олимпийских играх 1912 ###"
+  },
+  {
+   "file": "chunk_000195.txt",
+   "bytes": 21020171,
+   "md5": "186fd6c193f507cce842e62841f186a1",
+   "articles": 3390,
+   "first_title": "### Serenity ###"
+  },
+  {
+   "file": "chunk_000196.txt",
+   "bytes": 20974029,
+   "md5": "23287a9a28c40ff8b2e2f5a2fc8bb3e7",
+   "articles": 3384,
+   "first_title": "### Черноусов, Илья Григорьевич ###"
+  },
+  {
+   "file": "chunk_000197.txt",
+   "bytes": 20975912,
+   "md5": "9efc7ec54e5f011ae40ee501d221c6ae",
+   "articles": 3365,
+   "first_title": "### Креатинкиназа ###"
+  },
+  {
+   "file": "chunk_000198.txt",
+   "bytes": 20972638,
+   "md5": "d895ea088df77d62d4b20834d962024e",
+   "articles": 3489,
+   "first_title": "### Годлевский, Станислав ###"
+  },
+  {
+   "file": "chunk_000199.txt",
+   "bytes": 20972460,
+   "md5": "b09fc46e25eae4537d6dbb511274e6ab",
+   "articles": 7089,
+   "first_title": "### Аузиньш ###"
+  },
+  {
+   "file": "chunk_000200.txt",
+   "bytes": 20980455,
+   "md5": "00e608b06ebde94d0f1ed41bc6ea91d8",
+   "articles": 3513,
+   "first_title": "### Революция в Кыргызстане (2010) ###"
+  },
+  {
+   "file": "chunk_000201.txt",
+   "bytes": 20973397,
+   "md5": "fd40cc3fadba52a37b72eed3a602cdb6",
+   "articles": 3388,
+   "first_title": "### Араратян, Арташес Левонович ###"
+  },
+  {
+   "file": "chunk_000202.txt",
+   "bytes": 20974702,
+   "md5": "62ba2443a83206d3bfa08a11af6606d1",
+   "articles": 3387,
+   "first_title": "### Спрео Гильдебрандта ###"
+  },
+  {
+   "file": "chunk_000203.txt",
+   "bytes": 20975554,
+   "md5": "edf933df4b76f5d7b440d11d0a7db7a0",
+   "articles": 3373,
+   "first_title": "### Пять колец Москвы ###"
+  },
+  {
+   "file": "chunk_000204.txt",
+   "bytes": 20986825,
+   "md5": "947f2ad7b07663eaf48028c74ddc341e",
+   "articles": 3608,
+   "first_title": "### Дункан Смит, Иан ###"
+  },
+  {
+   "file": "chunk_000205.txt",
+   "bytes": 20975173,
+   "md5": "2cf5184750212fcf0dec9cc0fc03fa39",
+   "articles": 3532,
+   "first_title": "### Уран-232 ###"
+  },
+  {
+   "file": "chunk_000206.txt",
+   "bytes": 21223000,
+   "md5": "b1ccc4e377cf517fcdaac6a62fb7b9f0",
+   "articles": 3327,
+   "first_title": "### Солей Рояль (линейный корабль, 1749) ###"
+  },
+  {
+   "file": "chunk_000207.txt",
+   "bytes": 20987093,
+   "md5": "b5c4f5cb69b2da7cb8dea2d4d7779c59",
+   "articles": 3776,
+   "first_title": "### Каллауровичи ###"
+  },
+  {
+   "file": "chunk_000208.txt",
+   "bytes": 20974793,
+   "md5": "f763359e78d9fcbc6c67c50b4e1f6f91",
+   "articles": 4138,
+   "first_title": "### Хитинское сельское поселение ###"
+  },
+  {
+   "file": "chunk_000209.txt",
+   "bytes": 20983505,
+   "md5": "66a9b20b0f642c37d6fd3751d45ec775",
+   "articles": 3948,
+   "first_title": "### Гутин, Василий Леонтьевич ###"
+  },
+  {
+   "file": "chunk_000210.txt",
+   "bytes": 20976151,
+   "md5": "eaee1dae8eb3fffef8bfe6a5874344ad",
+   "articles": 3897,
+   "first_title": "### Кастель-дель-Монте ###"
+  },
+  {
+   "file": "chunk_000211.txt",
+   "bytes": 20973722,
+   "md5": "086cea749d967dba30bc27a8522ce55d",
+   "articles": 3725,
+   "first_title": "### Aclopus ###"
+  },
+  {
+   "file": "chunk_000212.txt",
+   "bytes": 21012612,
+   "md5": "1291f7ebf729f3deff679e30dc642087",
+   "articles": 3556,
+   "first_title": "### Кирхи Калининградской области ###"
+  },
+  {
+   "file": "chunk_000213.txt",
+   "bytes": 20971545,
+   "md5": "f2a19ca018e158d9aebeb0d584271d9a",
+   "articles": 3818,
+   "first_title": "### Златар ###"
+  },
+  {
+   "file": "chunk_000214.txt",
+   "bytes": 21003904,
+   "md5": "e0923853f4b2f22d7839d3d02bb91a4d",
+   "articles": 4567,
+   "first_title": "### Stigmella (род насекомых) ###"
+  },
+  {
+   "file": "chunk_000215.txt",
+   "bytes": 20971712,
+   "md5": "d01155282252455491336cdf58ae626c",
+   "articles": 3923,
+   "first_title": "### Мейнут ###"
+  },
+  {
+   "file": "chunk_000216.txt",
+   "bytes": 20986422,
+   "md5": "d8eb6280d228350533b01509cbee9e5e",
+   "articles": 3844,
+   "first_title": "### Верлиока (мультфильм) ###"
+  },
+  {
+   "file": "chunk_000217.txt",
+   "bytes": 21035637,
+   "md5": "fedacc298c406713f2b8569088b6aa0f",
+   "articles": 3409,
+   "first_title": "### Blueberry Garden ###"
+  },
+  {
+   "file": "chunk_000218.txt",
+   "bytes": 20972877,
+   "md5": "81d299084665d690f47d5eaa4e6c8329",
+   "articles": 6543,
+   "first_title": "### Клуб Тимерлана Гусейнова ###"
+  },
+  {
+   "file": "chunk_000219.txt",
+   "bytes": 20979115,
+   "md5": "465a60ab060f5850a7f0bc0b831dca5e",
+   "articles": 4009,
+   "first_title": "### Ханле-Гомпа ###"
+  },
+  {
+   "file": "chunk_000220.txt",
+   "bytes": 20971958,
+   "md5": "7f66c8a57ce036ab0129b9ab1435363f",
+   "articles": 3624,
+   "first_title": "### История логики ###"
+  },
+  {
+   "file": "chunk_000221.txt",
+   "bytes": 20979041,
+   "md5": "aa9cb085f44bfe7562ee63762aaab4d4",
+   "articles": 4111,
+   "first_title": "### Благовещение (значения) ###"
+  },
+  {
+   "file": "chunk_000222.txt",
+   "bytes": 20977660,
+   "md5": "57e941586443fba04c4cc71fd8f24d60",
+   "articles": 4746,
+   "first_title": "### Народный комиссариат Военно-морского флота СССР ###"
+  },
+  {
+   "file": "chunk_000223.txt",
+   "bytes": 20972288,
+   "md5": "6970fa6b31a2135b572290227ee9c569",
+   "articles": 3950,
+   "first_title": "### Дрожжино ###"
+  },
+  {
+   "file": "chunk_000224.txt",
+   "bytes": 20972598,
+   "md5": "b07477ff7178b99609570b49b0b47414",
+   "articles": 4895,
+   "first_title": "### Ленсман ###"
+  },
+  {
+   "file": "chunk_000225.txt",
+   "bytes": 20973174,
+   "md5": "c3b3b4739c5f9c2ad98bc26c1220c41b",
+   "articles": 4666,
+   "first_title": "### Гора (Полтавский район) ###"
+  },
+  {
+   "file": "chunk_000226.txt",
+   "bytes": 20974476,
+   "md5": "cce95180ba4bc043bc1b69089c8b2bde",
+   "articles": 4049,
+   "first_title": "### Кастеллини, Паоло ###"
+  },
+  {
+   "file": "chunk_000227.txt",
+   "bytes": 21135807,
+   "md5": "f4404530b5b6899edfb8f6ab80095987",
+   "articles": 4508,
+   "first_title": "### Эфиопский ёж ###"
+  },
+  {
+   "file": "chunk_000228.txt",
+   "bytes": 20996956,
+   "md5": "63649808fa5109b9393bdf75ea2d3a8c",
+   "articles": 4454,
+   "first_title": "### Пакруойис ###"
+  },
+  {
+   "file": "chunk_000229.txt",
+   "bytes": 20971690,
+   "md5": "f5edbaabb8befa427e067ec51ebfd224",
+   "articles": 3704,
+   "first_title": "### Административное деление Уфы ###"
+  },
+  {
+   "file": "chunk_000230.txt",
+   "bytes": 20972843,
+   "md5": "16e14442f400eee3b55f5e7c23f805db",
+   "articles": 3359,
+   "first_title": "### Аплодисменты (значения) ###"
+  },
+  {
+   "file": "chunk_000231.txt",
+   "bytes": 21033879,
+   "md5": "e2e3ff8edd303d65928de7b02b6e5846",
+   "articles": 3470,
+   "first_title": "### Кубасов, Иван Андреевич ###"
+  },
+  {
+   "file": "chunk_000232.txt",
+   "bytes": 20972232,
+   "md5": "3f246437f4fd0fd7f7648d15d2bce325",
+   "articles": 3395,
+   "first_title": "### Кисляков, Василий Павлович ###"
+  },
+  {
+   "file": "chunk_000233.txt",
+   "bytes": 20972896,
+   "md5": "151067e01b40f24a8dfe38c201a16e7d",
+   "articles": 4315,
+   "first_title": "### Сазлийка ###"
+  },
+  {
+   "file": "chunk_000234.txt",
+   "bytes": 20975517,
+   "md5": "54e8d10f62067d2a937795a848e25632",
+   "articles": 3594,
+   "first_title": "### Веерохвостая цистикола ###"
+  },
+  {
+   "file": "chunk_000235.txt",
+   "bytes": 20980577,
+   "md5": "ad91a12fcdabffafba3ad070b55fd216",
+   "articles": 10909,
+   "first_title": "### Сава, Девон ###"
+  },
+  {
+   "file": "chunk_000236.txt",
+   "bytes": 20983064,
+   "md5": "ec162421766becddd87da603f6904380",
+   "articles": 3439,
+   "first_title": "### Мадина (имя) ###"
+  },
+  {
+   "file": "chunk_000237.txt",
+   "bytes": 20978503,
+   "md5": "2ee464d2b63dee6cd02612ed74098f1d",
+   "articles": 3573,
+   "first_title": "### Филлипс, Йенди ###"
+  },
+  {
+   "file": "chunk_000238.txt",
+   "bytes": 21059051,
+   "md5": "07e547c52a92c6e886e3ab87e64d97b6",
+   "articles": 5627,
+   "first_title": "### Великокозырщина ###"
+  },
+  {
+   "file": "chunk_000239.txt",
+   "bytes": 20973870,
+   "md5": "5df8af5c6ce67fd5b3a83047f5de84c6",
+   "articles": 4428,
+   "first_title": "### Дэцянь ###"
+  },
+  {
+   "file": "chunk_000240.txt",
+   "bytes": 20971868,
+   "md5": "8baef4e52909423990e04c3ab8356c4e",
+   "articles": 4256,
+   "first_title": "### Граунт, Джон ###"
+  },
+  {
+   "file": "chunk_000241.txt",
+   "bytes": 21025586,
+   "md5": "fd0bb95dfac49de8c5731a1bba4455c3",
+   "articles": 3958,
+   "first_title": "### Монтиньи, Жан де ###"
+  },
+  {
+   "file": "chunk_000242.txt",
+   "bytes": 20973663,
+   "md5": "abd45283b5d812c407ebcb09da60dc39",
+   "articles": 3970,
+   "first_title": "### Серваловая генета ###"
+  },
+  {
+   "file": "chunk_000243.txt",
+   "bytes": 20976185,
+   "md5": "6229f9523df91bae8ac5d65e12e90d16",
+   "articles": 3424,
+   "first_title": "### Плеснеск ###"
+  },
+  {
+   "file": "chunk_000244.txt",
+   "bytes": 21006007,
+   "md5": "658f989a0c2a0b989d2f50ee81d4d782",
+   "articles": 3268,
+   "first_title": "### (2469) Таджикистан ###"
+  },
+  {
+   "file": "chunk_000245.txt",
+   "bytes": 21021965,
+   "md5": "01198aa247873ad59b8464e4ba399bc7",
+   "articles": 3869,
+   "first_title": "### Кринички (Солонянский район) ###"
+  },
+  {
+   "file": "chunk_000246.txt",
+   "bytes": 20972101,
+   "md5": "7a66aec64f3661e425e3b4e5c61a9686",
+   "articles": 3827,
+   "first_title": "### V391 Пегаса ###"
+  },
+  {
+   "file": "chunk_000247.txt",
+   "bytes": 20972171,
+   "md5": "35927f3e5cf7bd70f360d5d13989079f",
+   "articles": 3647,
+   "first_title": "### Сакс, Алексей (музыкант) ###"
+  },
+  {
+   "file": "chunk_000248.txt",
+   "bytes": 20990887,
+   "md5": "2b1deceb7aada2a0f7d832f5538540e8",
+   "articles": 3783,
+   "first_title": "### Отвальт, Эрнст ###"
+  },
+  {
+   "file": "chunk_000249.txt",
+   "bytes": 20971829,
+   "md5": "cf7d1691c7c1e1c0db2f0ce99404b94b",
+   "articles": 4719,
+   "first_title": "### Гедеон, Саша ###"
+  },
+  {
+   "file": "chunk_000250.txt",
+   "bytes": 20976002,
+   "md5": "bb3bed003c5722408430f4fa1eb04557",
+   "articles": 4154,
+   "first_title": "### Гороховка (Брянская область) ###"
+  },
+  {
+   "file": "chunk_000251.txt",
+   "bytes": 21020326,
+   "md5": "7314b1b83c76e72cc6aab1eb0a7fd325",
+   "articles": 4479,
+   "first_title": "### Абуданж ###"
+  },
+  {
+   "file": "chunk_000252.txt",
+   "bytes": 20975224,
+   "md5": "83b7e19f795dc8cd6a5b5d016f9cc920",
+   "articles": 8529,
+   "first_title": "### Стил, Питер ###"
+  },
+  {
+   "file": "chunk_000253.txt",
+   "bytes": 20972675,
+   "md5": "f6f921d79d77f1df311cd3e90486d769",
+   "articles": 4101,
+   "first_title": "### Набег (рассказ) ###"
+  },
+  {
+   "file": "chunk_000254.txt",
+   "bytes": 20989942,
+   "md5": "29cb4d7e0fccb19e9fcb1d9f02638a63",
+   "articles": 4495,
+   "first_title": "### Enchantment of the Seas ###"
+  },
+  {
+   "file": "chunk_000255.txt",
+   "bytes": 20972338,
+   "md5": "794e7250796e5f1d414913c96499adf7",
+   "articles": 4124,
+   "first_title": "### Югыдъёль ###"
+  },
+  {
+   "file": "chunk_000256.txt",
+   "bytes": 20992535,
+   "md5": "85bc4d4f6cb93a5805059585dfc93e3e",
+   "articles": 3767,
+   "first_title": "### Памятники Тирасполя ###"
+  },
+  {
+   "file": "chunk_000257.txt",
+   "bytes": 20973123,
+   "md5": "5304f75ec178f055b583c93eb3417682",
+   "articles": 4456,
+   "first_title": "### Новиков, Александр Иванович (земский деятель) ###"
+  },
+  {
+   "file": "chunk_000258.txt",
+   "bytes": 21008161,
+   "md5": "6ce2596f8771d8a59baf535dc9797b4e",
+   "articles": 3917,
+   "first_title": "### Варшавская битва 1920 года (фильм) ###"
+  },
+  {
+   "file": "chunk_000259.txt",
+   "bytes": 20974628,
+   "md5": "84e3001f57370d69d0d217c46f671d6f",
+   "articles": 3931,
+   "first_title": "### Франклин (река, Тасмания) ###"
+  },
+  {
+   "file": "chunk_000260.txt",
+   "bytes": 20978393,
+   "md5": "a8ba31e2e246afffc113bee6d6ddc9ef",
+   "articles": 4046,
+   "first_title": "### Большие Литвиновичи ###"
+  },
+  {
+   "file": "chunk_000261.txt",
+   "bytes": 20976498,
+   "md5": "0a685c4269d3e454a68f8024f7b6cdd3",
+   "articles": 5270,
+   "first_title": "### Money (альбом) ###"
+  },
+  {
+   "file": "chunk_000262.txt",
+   "bytes": 20985049,
+   "md5": "a333278ca985622764d7b1e5b01fe999",
+   "articles": 3670,
+   "first_title": "### Премия Гордона Белла ###"
+  },
+  {
+   "file": "chunk_000263.txt",
+   "bytes": 20975974,
+   "md5": "bd59e5e451f66ec554d0a8bbe9253329",
+   "articles": 4417,
+   "first_title": "### Жданово (городской округ Подольск) ###"
+  },
+  {
+   "file": "chunk_000264.txt",
+   "bytes": 20975366,
+   "md5": "30ce33557f61ac2214e2e513ed2ca507",
+   "articles": 3686,
+   "first_title": "### Метод штрафов ###"
+  },
+  {
+   "file": "chunk_000265.txt",
+   "bytes": 21001678,
+   "md5": "a775216bee105efca6753f77fff9fb19",
+   "articles": 3581,
+   "first_title": "### Sud Aviation ###"
+  },
+  {
+   "file": "chunk_000266.txt",
+   "bytes": 20972411,
+   "md5": "5ae08b3d7aacd94d9da9e5d70162b909",
+   "articles": 3551,
+   "first_title": "### Доктрина Кальво ###"
+  },
+  {
+   "file": "chunk_000267.txt",
+   "bytes": 20976909,
+   "md5": "c9d41343e2123cdec7dc24625cc049ec",
+   "articles": 3303,
+   "first_title": "### Школьное (Дагестан) ###"
+  },
+  {
+   "file": "chunk_000268.txt",
+   "bytes": 20973876,
+   "md5": "6fba7b3c423d3a8d5ec2667be514144c",
+   "articles": 3441,
+   "first_title": "### Ингалипт ###"
+  },
+  {
+   "file": "chunk_000269.txt",
+   "bytes": 20972856,
+   "md5": "5952b5a52ddf3aa3590ede22814926f1",
+   "articles": 3863,
+   "first_title": "### Пьетрас, Питер ###"
+  },
+  {
+   "file": "chunk_000270.txt",
+   "bytes": 20989216,
+   "md5": "cbd3ba5f6a8ca0949a8526ecfb6aa894",
+   "articles": 4001,
+   "first_title": "### Высокое (Черноморский район) ###"
+  },
+  {
+   "file": "chunk_000271.txt",
+   "bytes": 20979136,
+   "md5": "2a82289dbdfe262575c322dda4abef11",
+   "articles": 4172,
+   "first_title": "### Османский университет ###"
+  },
+  {
+   "file": "chunk_000272.txt",
+   "bytes": 20971731,
+   "md5": "100f1070e51c8433264696d9ceb180df",
+   "articles": 4716,
+   "first_title": "### Мистер и миссис Эндрюс ###"
+  },
+  {
+   "file": "chunk_000273.txt",
+   "bytes": 20975320,
+   "md5": "6f38b23de90aad886d3a319b6120c453",
+   "articles": 4201,
+   "first_title": "### Островщина ###"
+  },
+  {
+   "file": "chunk_000274.txt",
+   "bytes": 20971938,
+   "md5": "58264fd070038f61d5cfbf9123bf9e71",
+   "articles": 3870,
+   "first_title": "### Джаханпанах ###"
+  },
+  {
+   "file": "chunk_000275.txt",
+   "bytes": 20972799,
+   "md5": "5a1513339112df11a1613faa96935417",
+   "articles": 3688,
+   "first_title": "### VIII Всероссийский съезд Советов ###"
+  },
+  {
+   "file": "chunk_000276.txt",
+   "bytes": 20984407,
+   "md5": "ca9ef8343db743a2daadfb5d2ae283a0",
+   "articles": 3816,
+   "first_title": "### Довский сельсовет ###"
+  },
+  {
+   "file": "chunk_000277.txt",
+   "bytes": 20973192,
+   "md5": "f8d199276eaa175cafdfd9a7e1645170",
+   "articles": 3619,
+   "first_title": "### Шведский музей естественной истории ###"
+  },
+  {
+   "file": "chunk_000278.txt",
+   "bytes": 20972371,
+   "md5": "c1fb9d525610e90853b50ca52f951fce",
+   "articles": 4620,
+   "first_title": "### Шехонин, Николай Алексеевич ###"
+  },
+  {
+   "file": "chunk_000279.txt",
+   "bytes": 20973013,
+   "md5": "0c40ada2a12e724ffa3bce51e113ac7a",
+   "articles": 4255,
+   "first_title": "### Сенокосец обыкновенный ###"
+  },
+  {
+   "file": "chunk_000280.txt",
+   "bytes": 20972894,
+   "md5": "a41f58b87e1b874b62a33df35dff524e",
+   "articles": 3973,
+   "first_title": "### Совет польского языка ###"
+  },
+  {
+   "file": "chunk_000281.txt",
+   "bytes": 20979890,
+   "md5": "fe1a56c5644a7f6ae06a6cec6dac1eba",
+   "articles": 4265,
+   "first_title": "### Морская набережная (Санкт-Петербург) ###"
+  },
+  {
+   "file": "chunk_000282.txt",
+   "bytes": 20974767,
+   "md5": "fbeafb0e1fa426068dc4dfff31faefda",
+   "articles": 3486,
+   "first_title": "### Успеновка (Ставропольский край) ###"
+  },
+  {
+   "file": "chunk_000283.txt",
+   "bytes": 20972932,
+   "md5": "5a7d41b0aced82f8e87c91c5d8424ae2",
+   "articles": 4036,
+   "first_title": "### Эмбол ###"
+  },
+  {
+   "file": "chunk_000284.txt",
+   "bytes": 20973332,
+   "md5": "bfac1333095ac599791cfcc7ecb58e3a",
+   "articles": 3790,
+   "first_title": "### Pulex simulans ###"
+  },
+  {
+   "file": "chunk_000285.txt",
+   "bytes": 20971593,
+   "md5": "817f90030f1ed0b21e77473175a6c207",
+   "articles": 4336,
+   "first_title": "### Яцков, Сергей Егорович ###"
+  },
+  {
+   "file": "chunk_000286.txt",
+   "bytes": 20974700,
+   "md5": "1e1aae715900c76fdfe173729e3f3fdf",
+   "articles": 5324,
+   "first_title": "### Камински, Джейк ###"
+  },
+  {
+   "file": "chunk_000287.txt",
+   "bytes": 20976853,
+   "md5": "c282e857a2f1444b3f27603f33c66dd7",
+   "articles": 7812,
+   "first_title": "### Гребло ###"
+  },
+  {
+   "file": "chunk_000288.txt",
+   "bytes": 20976215,
+   "md5": "a7c0d1dfb7c13161221ad331802ec54d",
+   "articles": 5902,
+   "first_title": "### Изотопы лантана ###"
+  },
+  {
+   "file": "chunk_000289.txt",
+   "bytes": 20976554,
+   "md5": "ead30b92a00e10a907b7c0fc444e50a6",
+   "articles": 4578,
+   "first_title": "### Каурово ###"
+  },
+  {
+   "file": "chunk_000290.txt",
+   "bytes": 20971828,
+   "md5": "72f6a488873b7c22ef1a924becabd9c5",
+   "articles": 4428,
+   "first_title": "### Дзержинский район (Оренбург) ###"
+  },
+  {
+   "file": "chunk_000291.txt",
+   "bytes": 20972466,
+   "md5": "4d26a63e4c1ff2c1c48192d184423267",
+   "articles": 4619,
+   "first_title": "### Корниловский сельсовет (Алтайский край) ###"
+  },
+  {
+   "file": "chunk_000292.txt",
+   "bytes": 20973308,
+   "md5": "da04e36bfafa64cc7ab62c83c4538d17",
+   "articles": 4748,
+   "first_title": "### Эпт, Джером ###"
+  },
+  {
+   "file": "chunk_000293.txt",
+   "bytes": 20971976,
+   "md5": "781dfc01595ab73a22e552229f11a43b",
+   "articles": 3929,
+   "first_title": "### Итатка (верхний приток Чулыма) ###"
+  },
+  {
+   "file": "chunk_000294.txt",
+   "bytes": 20978834,
+   "md5": "0fad2f2d24b11825276636c4980bd4da",
+   "articles": 5285,
+   "first_title": "### Фаджр Сепаси ###"
+  },
+  {
+   "file": "chunk_000295.txt",
+   "bytes": 20989800,
+   "md5": "2cd1e621ce2b36fff3717083a2e7f599",
+   "articles": 4844,
+   "first_title": "### Куриловская волость ###"
+  },
+  {
+   "file": "chunk_000296.txt",
+   "bytes": 20972895,
+   "md5": "3d62fb5adcc8f76b86841019effbca3a",
+   "articles": 4269,
+   "first_title": "### Роллстон, Джереми ###"
+  },
+  {
+   "file": "chunk_000297.txt",
+   "bytes": 20978461,
+   "md5": "8b482197150319f5ac91dee05f6f0c08",
+   "articles": 4878,
+   "first_title": "### Боголеп (Гончаренко) ###"
+  },
+  {
+   "file": "chunk_000298.txt",
+   "bytes": 20980126,
+   "md5": "eed7ff4cea1fff9856d006f1fd24708e",
+   "articles": 4172,
+   "first_title": "### Джентиль, Марко ###"
+  },
+  {
+   "file": "chunk_000299.txt",
+   "bytes": 21086787,
+   "md5": "d38e5a74e7709353675e152806dcdf14",
+   "articles": 4418,
+   "first_title": "### Дескальсас-Реалес ###"
+  },
+  {
+   "file": "chunk_000300.txt",
+   "bytes": 20977638,
+   "md5": "8ef677ccfddf65253553ebe9292a1ac5",
+   "articles": 4817,
+   "first_title": "### Дорофеев, Иван Николаевич ###"
+  },
+  {
+   "file": "chunk_000301.txt",
+   "bytes": 20984743,
+   "md5": "f250499bb25c5f0b4bb5464b7c870d61",
+   "articles": 4306,
+   "first_title": "### 1914 год в музыке ###"
+  },
+  {
+   "file": "chunk_000302.txt",
+   "bytes": 20979888,
+   "md5": "5ab80a4e4302f1f62c25c25c80b7a88f",
+   "articles": 4997,
+   "first_title": "### Сан-Мигел-ду-Арагуая (значения) ###"
+  },
+  {
+   "file": "chunk_000303.txt",
+   "bytes": 20971724,
+   "md5": "d02bfdde44160fc0ed49d6b8105673ac",
+   "articles": 4792,
+   "first_title": "### In nomine ###"
+  },
+  {
+   "file": "chunk_000304.txt",
+   "bytes": 20972272,
+   "md5": "93c08267ebd54d0f19446761968d875a",
+   "articles": 4625,
+   "first_title": "### Тиват (значения) ###"
+  },
+  {
+   "file": "chunk_000305.txt",
+   "bytes": 21060544,
+   "md5": "054b4a7d17fa3a106b253b058d483493",
+   "articles": 4595,
+   "first_title": "### Патраков, Александр Фёдорович ###"
+  },
+  {
+   "file": "chunk_000306.txt",
+   "bytes": 20976183,
+   "md5": "7efa66355293670397cd9059086559bd",
+   "articles": 4950,
+   "first_title": "### Лэмпти, Нии ###"
+  },
+  {
+   "file": "chunk_000307.txt",
+   "bytes": 20971716,
+   "md5": "4acf21255cf45215884ddb8fb8b24598",
+   "articles": 4441,
+   "first_title": "### Зима, Иван Павлович ###"
+  },
+  {
+   "file": "chunk_000308.txt",
+   "bytes": 20974433,
+   "md5": "6a299b83c6802b3df1a7243340a3c022",
+   "articles": 4197,
+   "first_title": "### Книф, Иоганн ###"
+  },
+  {
+   "file": "chunk_000309.txt",
+   "bytes": 20971950,
+   "md5": "65ec124f084b72d114e8e6187ecb4c74",
+   "articles": 4295,
+   "first_title": "### О’Брайен, Спенсер ###"
+  },
+  {
+   "file": "chunk_000310.txt",
+   "bytes": 20972753,
+   "md5": "060a26add32a48338cb480c8c3d15c95",
+   "articles": 4465,
+   "first_title": "### Чарторыйский, Николай Ежи ###"
+  },
+  {
+   "file": "chunk_000311.txt",
+   "bytes": 20975356,
+   "md5": "a731e3aedfb498c1828c546bc606d07e",
+   "articles": 4898,
+   "first_title": "### Хаджа ###"
+  },
+  {
+   "file": "chunk_000312.txt",
+   "bytes": 20971787,
+   "md5": "ceceb99e5efb625b142cc41fe79c0210",
+   "articles": 5036,
+   "first_title": "### Международный аэропорт имени Густаво Рохаса Пинилья ###"
+  },
+  {
+   "file": "chunk_000313.txt",
+   "bytes": 20976951,
+   "md5": "fca943c4c4c426d48c16691694f54e21",
+   "articles": 4293,
+   "first_title": "### Стафлё, Франс Антони ###"
+  },
+  {
+   "file": "chunk_000314.txt",
+   "bytes": 20971803,
+   "md5": "86fde267139290621d69507517e01088",
+   "articles": 4541,
+   "first_title": "### Лёгкая атлетика на летних Олимпийских играх 1924 — легкоатлетический кросс ###"
+  },
+  {
+   "file": "chunk_000315.txt",
+   "bytes": 20975929,
+   "md5": "cd35ac8c22ea991cb7f9030eb98c63f8",
+   "articles": 4301,
+   "first_title": "### Жим Свенда ###"
+  },
+  {
+   "file": "chunk_000316.txt",
+   "bytes": 20973948,
+   "md5": "108ca959aaf77205d3e08bf6dc02eb76",
+   "articles": 4173,
+   "first_title": "### Allothoracaphis piyananensis ###"
+  },
+  {
+   "file": "chunk_000317.txt",
+   "bytes": 20989144,
+   "md5": "b5f6a2c48831c13a7855373c955e0c64",
+   "articles": 4759,
+   "first_title": "### Лишер ###"
+  },
+  {
+   "file": "chunk_000318.txt",
+   "bytes": 20973634,
+   "md5": "ba1350d39c7c3644229d3b1c79b381ae",
+   "articles": 4263,
+   "first_title": "### Dolby HX Pro ###"
+  },
+  {
+   "file": "chunk_000319.txt",
+   "bytes": 20976454,
+   "md5": "3bf8b6eadbff604247049af1a6b41e91",
+   "articles": 4252,
+   "first_title": "### Поздняково (городской округ Красногорск) ###"
+  },
+  {
+   "file": "chunk_000320.txt",
+   "bytes": 20974295,
+   "md5": "97275b06f5350dd85a84ee1fa0b8a89d",
+   "articles": 4081,
+   "first_title": "### Пипер, Франц ###"
+  },
+  {
+   "file": "chunk_000321.txt",
+   "bytes": 20983753,
+   "md5": "55777bfd92633800236d79f1723e49e0",
+   "articles": 3961,
+   "first_title": "### Сельское поселение «Деревня Красный Городок» ###"
+  },
+  {
+   "file": "chunk_000322.txt",
+   "bytes": 20973268,
+   "md5": "81a646b8fc4fca0204a8b9f28523c4dc",
+   "articles": 3921,
+   "first_title": "### Чемпионат Катара по футболу 2012/2013 ###"
+  },
+  {
+   "file": "chunk_000323.txt",
+   "bytes": 20973916,
+   "md5": "799003a851e25db2cc177acaceceb482",
+   "articles": 4169,
+   "first_title": "### КВН-98/64 (паровой котёл) ###"
+  },
+  {
+   "file": "chunk_000324.txt",
+   "bytes": 20984121,
+   "md5": "b5e064b7daf681398d07f7f0c8aba8da",
+   "articles": 4663,
+   "first_title": "### Вороново (Липецкая область) ###"
+  },
+  {
+   "file": "chunk_000325.txt",
+   "bytes": 20977003,
+   "md5": "2696777c69a4840cecbdfd10664a9f69",
+   "articles": 4059,
+   "first_title": "### Сембрант, Линда ###"
+  },
+  {
+   "file": "chunk_000326.txt",
+   "bytes": 20974787,
+   "md5": "d7248d431de6787eadf5defb127e8771",
+   "articles": 4024,
+   "first_title": "### Карденас, Феликс ###"
+  },
+  {
+   "file": "chunk_000327.txt",
+   "bytes": 20976799,
+   "md5": "05ed39906c5a203b4c27c2468a5c9534",
+   "articles": 3759,
+   "first_title": "### Столкновение Ми-8 и Ан-12 в аэропорту Нарьян-Мара ###"
+  },
+  {
+   "file": "chunk_000328.txt",
+   "bytes": 20974493,
+   "md5": "79250bdedfce93176dcde1dd402acccd",
+   "articles": 4075,
+   "first_title": "### Ерахтурское сельское поселение ###"
+  },
+  {
+   "file": "chunk_000329.txt",
+   "bytes": 21034470,
+   "md5": "557e8a227a11fe613c3a1f3fe86679d5",
+   "articles": 4347,
+   "first_title": "### Семейники ###"
+  },
+  {
+   "file": "chunk_000330.txt",
+   "bytes": 21034372,
+   "md5": "83e42ba2ee1251b24bd7a1bc408e7d6f",
+   "articles": 4328,
+   "first_title": "### Рост (тауншип, Миннесота) ###"
+  },
+  {
+   "file": "chunk_000331.txt",
+   "bytes": 20971668,
+   "md5": "ce8fd6fe3d2d9a91db1275fc7873e43a",
+   "articles": 4250,
+   "first_title": "### Таскудук (Дарбазинский сельский округ) ###"
+  },
+  {
+   "file": "chunk_000332.txt",
+   "bytes": 20976003,
+   "md5": "e8a444946bc5e132b82c01fcab85e840",
+   "articles": 3853,
+   "first_title": "### Сауд ибн Фейсал ибн Турки Аль Сауд ###"
+  },
+  {
+   "file": "chunk_000333.txt",
+   "bytes": 20975315,
+   "md5": "7c8a124a6dd263c4e995563cc9bdfc95",
+   "articles": 3993,
+   "first_title": "### Кузнецов, Иван Юрьевич ###"
+  },
+  {
+   "file": "chunk_000334.txt",
+   "bytes": 20972778,
+   "md5": "81cd26260dfcf95c206eb8657667aa5b",
+   "articles": 4203,
+   "first_title": "### Таунсенд, Эмма ###"
+  },
+  {
+   "file": "chunk_000335.txt",
+   "bytes": 20973003,
+   "md5": "e769d540d3fc6a76cd882239b4e5ca54",
+   "articles": 4044,
+   "first_title": "### Чжоу Вэйчжи ###"
+  },
+  {
+   "file": "chunk_000336.txt",
+   "bytes": 20980251,
+   "md5": "f60019aa8e3f60f8d3fd0585d4831f3e",
+   "articles": 3858,
+   "first_title": "### Виллемсе, Вим ###"
+  },
+  {
+   "file": "chunk_000337.txt",
+   "bytes": 20971850,
+   "md5": "a1f9459178c022fb43a81b924d612ebf",
+   "articles": 4025,
+   "first_title": "### Рослик, Павел Адамович ###"
+  },
+  {
+   "file": "chunk_000338.txt",
+   "bytes": 20971579,
+   "md5": "14ff00d103a24e66da1c634af6c1d151",
+   "articles": 4039,
+   "first_title": "### Горошанский, Александр Александрович ###"
+  },
+  {
+   "file": "chunk_000339.txt",
+   "bytes": 20973312,
+   "md5": "bd0eac3dd1cb01553ccef27b847bbf06",
+   "articles": 4050,
+   "first_title": "### Пебаль, Леопольд ###"
+  },
+  {
+   "file": "chunk_000340.txt",
+   "bytes": 21044433,
+   "md5": "f0925c99e3912bd02b0939e00b4bde15",
+   "articles": 3836,
+   "first_title": "### Вампир (картина) ###"
+  },
+  {
+   "file": "chunk_000341.txt",
+   "bytes": 20972291,
+   "md5": "8162b034409b6e7a54168693f945812a",
+   "articles": 4076,
+   "first_title": "### Чембержи, Михаил Иванович ###"
+  },
+  {
+   "file": "chunk_000342.txt",
+   "bytes": 20974515,
+   "md5": "3af69bb03d9f48f5084b73e24d0646ec",
+   "articles": 4291,
+   "first_title": "### Хайд (округ) ###"
+  },
+  {
+   "file": "chunk_000343.txt",
+   "bytes": 20980374,
+   "md5": "0c5de41b051068aa28373409f8644150",
+   "articles": 4020,
+   "first_title": "### Михайлово чудо ###"
+  },
+  {
+   "file": "chunk_000344.txt",
+   "bytes": 20977347,
+   "md5": "7890ce8f14437bc3f1a1223811d61156",
+   "articles": 4028,
+   "first_title": "### Диоксидифторонептунат калия ###"
+  },
+  {
+   "file": "chunk_000345.txt",
+   "bytes": 20971668,
+   "md5": "fdfeddd8839f5a2c361024ad61c2c04a",
+   "articles": 4036,
+   "first_title": "### Матьяжева армия ###"
+  },
+  {
+   "file": "chunk_000346.txt",
+   "bytes": 20973848,
+   "md5": "f351f3f381b8932684567482f4c99b73",
+   "articles": 3723,
+   "first_title": "### Военно-морской коммандос ###"
+  },
+  {
+   "file": "chunk_000347.txt",
+   "bytes": 20978353,
+   "md5": "4ef12784f15328598636e13a559b7a93",
+   "articles": 4197,
+   "first_title": "### Еланское муниципальное образование ###"
+  },
+  {
+   "file": "chunk_000348.txt",
+   "bytes": 20973002,
+   "md5": "27c1260d2a3f2cc3394fcb8933f29a0f",
+   "articles": 3675,
+   "first_title": "### Gatorade ###"
+  },
+  {
+   "file": "chunk_000349.txt",
+   "bytes": 21056889,
+   "md5": "bc1dded96967745b81549c06e1b9b100",
+   "articles": 4294,
+   "first_title": "### Spiders ###"
+  },
+  {
+   "file": "chunk_000350.txt",
+   "bytes": 20972918,
+   "md5": "7afbb5f3db4b1189868e689f3636ee05",
+   "articles": 4308,
+   "first_title": "### Марчик ###"
+  },
+  {
+   "file": "chunk_000351.txt",
+   "bytes": 20975537,
+   "md5": "21300a77464dbef81dd9c705a9f45389",
+   "articles": 3864,
+   "first_title": "### Фрейдлин, Ян Михайлович ###"
+  },
+  {
+   "file": "chunk_000352.txt",
+   "bytes": 20982830,
+   "md5": "a067569f40dd91a8df3de4505252c90b",
+   "articles": 4058,
+   "first_title": "### (181751) Фенопс ###"
+  },
+  {
+   "file": "chunk_000353.txt",
+   "bytes": 20971633,
+   "md5": "81fa84fe7fff31a94b87d8f26e155b8e",
+   "articles": 4547,
+   "first_title": "### Сент-Луисская «Аллея славы» ###"
+  },
+  {
+   "file": "chunk_000354.txt",
+   "bytes": 20973330,
+   "md5": "f0d7280b438de9a5d6254ed95e9c049e",
+   "articles": 5073,
+   "first_title": "### Катастрофа Boeing 727 на озере Мичиган ###"
+  },
+  {
+   "file": "chunk_000355.txt",
+   "bytes": 20975456,
+   "md5": "1d71eaf53d2ee9cbdf90335812668d6f",
+   "articles": 4490,
+   "first_title": "### Медаль «За ранение» (Хорватия) ###"
+  },
+  {
+   "file": "chunk_000356.txt",
+   "bytes": 20973894,
+   "md5": "4750958b3279450c0f3cbc4234a48a1b",
+   "articles": 4304,
+   "first_title": "### Slack ###"
+  },
+  {
+   "file": "chunk_000357.txt",
+   "bytes": 20976016,
+   "md5": "3b55ff44feacc743bf14c7a470945eb3",
+   "articles": 4805,
+   "first_title": "### Ясный (Амурская область) ###"
+  },
+  {
+   "file": "chunk_000358.txt",
+   "bytes": 20979858,
+   "md5": "9cef0fa91b26b6cd911d6f605b119eb9",
+   "articles": 4177,
+   "first_title": "### Златоустовский городской округ ###"
+  },
+  {
+   "file": "chunk_000359.txt",
+   "bytes": 20972814,
+   "md5": "40fbdf2eca1a370d91412d6f1c31cfd1",
+   "articles": 4124,
+   "first_title": "### Киплинг, Джон ###"
+  },
+  {
+   "file": "chunk_000360.txt",
+   "bytes": 20973421,
+   "md5": "0b67660189543b2967db5f7f993dfb39",
+   "articles": 3779,
+   "first_title": "### Чемпионат Китая по международным шашкам среди мужчин 2015 ###"
+  },
+  {
+   "file": "chunk_000361.txt",
+   "bytes": 20978920,
+   "md5": "6421e9b97d00afc925a1164cad9c49bf",
+   "articles": 4063,
+   "first_title": "### Вартоломеу, Роман ###"
+  },
+  {
+   "file": "chunk_000362.txt",
+   "bytes": 20972543,
+   "md5": "4baa1aa04514e4e50718525b5aeb5435",
+   "articles": 4326,
+   "first_title": "### Посольский сор ###"
+  },
+  {
+   "file": "chunk_000363.txt",
+   "bytes": 20972925,
+   "md5": "1991d69b6e7f3b8d58cf08f1ebc1724d",
+   "articles": 4003,
+   "first_title": "### Дорогомилово (слобода) ###"
+  },
+  {
+   "file": "chunk_000364.txt",
+   "bytes": 20991100,
+   "md5": "899bb3455fd341dcfc846a4d76893f3b",
+   "articles": 4114,
+   "first_title": "### Карпов, Михаил Георгиевич ###"
+  },
+  {
+   "file": "chunk_000365.txt",
+   "bytes": 20971849,
+   "md5": "ca3d763c20eca2c20db3c70034136f72",
+   "articles": 4696,
+   "first_title": "### Авиационный завод № 295 ###"
+  },
+  {
+   "file": "chunk_000366.txt",
+   "bytes": 20971861,
+   "md5": "b6d9a22906b0f2b33c2dfbc46475a9e8",
+   "articles": 4725,
+   "first_title": "### Антикитобойные протесты в Антарктике ###"
+  },
+  {
+   "file": "chunk_000367.txt",
+   "bytes": 20987558,
+   "md5": "3d5e3d10d08617d8fd26d3a5167a2e6a",
+   "articles": 4098,
+   "first_title": "### Груневауд, Рон ###"
+  },
+  {
+   "file": "chunk_000368.txt",
+   "bytes": 20974944,
+   "md5": "642af15eb605b05fb0f19e48b2ba55f9",
+   "articles": 4069,
+   "first_title": "### Крымский поход на Русь (1591) ###"
+  },
+  {
+   "file": "chunk_000369.txt",
+   "bytes": 20973933,
+   "md5": "0aad4c17c916276b8eb4ce9d1a08612b",
+   "articles": 4111,
+   "first_title": "### Samsung Galaxy Alpha ###"
+  },
+  {
+   "file": "chunk_000370.txt",
+   "bytes": 20972655,
+   "md5": "71e2f2c588e9003fe2323dfdef9d2fde",
+   "articles": 3974,
+   "first_title": "### Апалихинское муниципальное образование ###"
+  },
+  {
+   "file": "chunk_000371.txt",
+   "bytes": 20972344,
+   "md5": "668d68c7e2dafd1c7c1b2e10b402e859",
+   "articles": 4093,
+   "first_title": "### Остров потерянных душ (фильм, 1932) ###"
+  },
+  {
+   "file": "chunk_000372.txt",
+   "bytes": 20971560,
+   "md5": "4c7eceaa727218fba74ce6abc8b5b1af",
+   "articles": 3728,
+   "first_title": "### Вещур ###"
+  },
+  {
+   "file": "chunk_000373.txt",
+   "bytes": 20979702,
+   "md5": "759ff664c5b28de476a6af956cd98b06",
+   "articles": 3540,
+   "first_title": "### Акаикэ, Хироцугу ###"
+  },
+  {
+   "file": "chunk_000374.txt",
+   "bytes": 20973447,
+   "md5": "578819194b60b61d9a048656173cc639",
+   "articles": 3563,
+   "first_title": "### Open (мини-альбом Джона Андерсона) ###"
+  },
+  {
+   "file": "chunk_000375.txt",
+   "bytes": 20972459,
+   "md5": "5bc782fc6a9e1fce998ba2c372835396",
+   "articles": 3731,
+   "first_title": "### Вильданов, Рауф Гибадуллович ###"
+  },
+  {
+   "file": "chunk_000376.txt",
+   "bytes": 20972598,
+   "md5": "dd057c51c2ee439d3c8f8ea5addd743d",
+   "articles": 4063,
+   "first_title": "### Ретинское сельское поселение ###"
+  },
+  {
+   "file": "chunk_000377.txt",
+   "bytes": 20971819,
+   "md5": "5d4f1069bda6425989e2e8ce52730c9c",
+   "articles": 3971,
+   "first_title": "### Лейне, Ким ###"
+  },
+  {
+   "file": "chunk_000378.txt",
+   "bytes": 20971617,
+   "md5": "541afb3eaa137d2a086fa4767986d733",
+   "articles": 3864,
+   "first_title": "### Найденов, Васил ###"
+  },
+  {
+   "file": "chunk_000379.txt",
+   "bytes": 20984530,
+   "md5": "8671bd5d1d92165b0277dedc0e5c0114",
+   "articles": 4077,
+   "first_title": "### Ревунка ###"
+  },
+  {
+   "file": "chunk_000380.txt",
+   "bytes": 20986185,
+   "md5": "184efd79bdc74187e0c336eb382c8d63",
+   "articles": 3828,
+   "first_title": "### Кервилл ###"
+  },
+  {
+   "file": "chunk_000381.txt",
+   "bytes": 20973081,
+   "md5": "3fe4824f1b0a59c3bcfa2a498da6588c",
+   "articles": 3892,
+   "first_title": "### Бенсон, Уильям Сол ###"
+  },
+  {
+   "file": "chunk_000382.txt",
+   "bytes": 20975026,
+   "md5": "abe2c20c402df90b6630e5bda459578c",
+   "articles": 4038,
+   "first_title": "### Туризм в Северной Македонии ###"
+  },
+  {
+   "file": "chunk_000383.txt",
+   "bytes": 20973572,
+   "md5": "c9f36b380aaf3d40f47580f7179c7b19",
+   "articles": 3731,
+   "first_title": "### Миранчук, Антон Андреевич ###"
+  },
+  {
+   "file": "chunk_000384.txt",
+   "bytes": 20977536,
+   "md5": "1112e52c5d8d9ab569723fc3b9101b2e",
+   "articles": 3684,
+   "first_title": "### Беренграбен ###"
+  },
+  {
+   "file": "chunk_000385.txt",
+   "bytes": 20980940,
+   "md5": "c30f886c74fba9e2803977c219626a89",
+   "articles": 3942,
+   "first_title": "### Площадь Годжи ###"
+  },
+  {
+   "file": "chunk_000386.txt",
+   "bytes": 20978365,
+   "md5": "166470f6280433f941e43ad705848307",
+   "articles": 4143,
+   "first_title": "### Клайн, Ричард ###"
+  },
+  {
+   "file": "chunk_000387.txt",
+   "bytes": 20973103,
+   "md5": "ff0589ac317b950373bdff975e464b32",
+   "articles": 4790,
+   "first_title": "### Казановка (Челябинская область) ###"
+  },
+  {
+   "file": "chunk_000388.txt",
+   "bytes": 20974373,
+   "md5": "7d1cb91a26d2c8666572fc08840126f8",
+   "articles": 4098,
+   "first_title": "### Доброчаева, Дарья Никитична ###"
+  },
+  {
+   "file": "chunk_000389.txt",
+   "bytes": 20976134,
+   "md5": "854718537500d4fd3a9e33218941561e",
+   "articles": 3903,
+   "first_title": "### Бадр (Саудовская Аравия) ###"
+  },
+  {
+   "file": "chunk_000390.txt",
+   "bytes": 20972414,
+   "md5": "761fe83d4e75f9768d4f0ce28d32b768",
+   "articles": 3991,
+   "first_title": "### 38 cm SK L/45 Max ###"
+  },
+  {
+   "file": "chunk_000391.txt",
+   "bytes": 20980803,
+   "md5": "730d6ccc1e1a777e56ccd16bdc22e98c",
+   "articles": 4057,
+   "first_title": "### Поцелуй на бис (альбом) ###"
+  },
+  {
+   "file": "chunk_000392.txt",
+   "bytes": 20971967,
+   "md5": "006e9e2b83c887ad4371bfe652f3e80b",
+   "articles": 4496,
+   "first_title": "### Келласская кошка ###"
+  },
+  {
+   "file": "chunk_000393.txt",
+   "bytes": 20990005,
+   "md5": "b91bc223750ef9a406c98ac34b883888",
+   "articles": 4294,
+   "first_title": "### Самсоновка (Алтайский край) ###"
+  },
+  {
+   "file": "chunk_000394.txt",
+   "bytes": 21031792,
+   "md5": "6bc9973d2d159c68b5c8847673fb53f9",
+   "articles": 3523,
+   "first_title": "### Шмелёв, Гелий Иванович ###"
+  },
+  {
+   "file": "chunk_000395.txt",
+   "bytes": 20972923,
+   "md5": "83030dd7aadc91d53ac134cc3a2f42c1",
+   "articles": 4113,
+   "first_title": "### Маджид ибн Абдул-Азиз Аль Сауд ###"
+  },
+  {
+   "file": "chunk_000396.txt",
+   "bytes": 20991477,
+   "md5": "875527a485dcdfd6df7730eef7996730",
+   "articles": 4249,
+   "first_title": "### Сыбай, Рустем Серикович ###"
+  },
+  {
+   "file": "chunk_000397.txt",
+   "bytes": 20974059,
+   "md5": "4f2fb8befb8c158bd6a91cd863c7a50e",
+   "articles": 3852,
+   "first_title": "### Улица Лиелвардес ###"
+  },
+  {
+   "file": "chunk_000398.txt",
+   "bytes": 20977236,
+   "md5": "8496d43ad043b4ee907ce0c00f11fd80",
+   "articles": 3352,
+   "first_title": "### Стернин, Владимир Петрович ###"
+  },
+  {
+   "file": "chunk_000399.txt",
+   "bytes": 20983695,
+   "md5": "bf564b74ac13e5a4d83f7475fa191800",
+   "articles": 3461,
+   "first_title": "### Faith (песня) ###"
+  },
+  {
+   "file": "chunk_000400.txt",
+   "bytes": 20972104,
+   "md5": "82fd1130b5c6c5aa86e90572373a328f",
+   "articles": 3901,
+   "first_title": "### Медведицкое (значения) ###"
+  },
+  {
+   "file": "chunk_000401.txt",
+   "bytes": 20991497,
+   "md5": "595c4ab5693c830aadfa11e9d7c5b062",
+   "articles": 3962,
+   "first_title": "### Большая Чечня ###"
+  },
+  {
+   "file": "chunk_000402.txt",
+   "bytes": 20973153,
+   "md5": "2ca7d4742fa559ff97de842b22c948cd",
+   "articles": 4250,
+   "first_title": "### Глобальный договор ООН ###"
+  },
+  {
+   "file": "chunk_000403.txt",
+   "bytes": 20976280,
+   "md5": "1c1f81bcc1a70bd7870d1a5c962d5bfc",
+   "articles": 3604,
+   "first_title": "### 56-я стрелковая дивизия ###"
+  },
+  {
+   "file": "chunk_000404.txt",
+   "bytes": 20976736,
+   "md5": "914fc3a8f50acb72c4c7d9780a191be6",
+   "articles": 3301,
+   "first_title": "### What Went Down ###"
+  },
+  {
+   "file": "chunk_000405.txt",
+   "bytes": 20972509,
+   "md5": "89e26e27d2e75e045fc17408fbab38d4",
+   "articles": 3483,
+   "first_title": "### Бурхард I (пфальцграф Саксонии) ###"
+  },
+  {
+   "file": "chunk_000406.txt",
+   "bytes": 20974573,
+   "md5": "e14d3c18bb2fce1ab9a7537a988e1be8",
+   "articles": 3664,
+   "first_title": "### Маханово (Свердловская область) ###"
+  },
+  {
+   "file": "chunk_000407.txt",
+   "bytes": 20983652,
+   "md5": "677cc989d97a8a187515ccdfb2dfed17",
+   "articles": 3822,
+   "first_title": "### Большевики (картина) ###"
+  },
+  {
+   "file": "chunk_000408.txt",
+   "bytes": 20975643,
+   "md5": "1982bfcd6608e7939ee2dcdb76ede85e",
+   "articles": 3658,
+   "first_title": "### Принцесса Зельда ###"
+  },
+  {
+   "file": "chunk_000409.txt",
+   "bytes": 20971558,
+   "md5": "54ee3ce74ce54d2b1c4cbce65d49ee93",
+   "articles": 4084,
+   "first_title": "### Индо-хеттская гипотеза ###"
+  },
+  {
+   "file": "chunk_000410.txt",
+   "bytes": 20972470,
+   "md5": "24357158451a9906cacda8ec2b7d5689",
+   "articles": 4029,
+   "first_title": "### Рана, Дев Шамшер Джанг Бахадур ###"
+  },
+  {
+   "file": "chunk_000411.txt",
+   "bytes": 20978264,
+   "md5": "62800d34f3cff3a8e572db34163ad790",
+   "articles": 3798,
+   "first_title": "### Список земноводных Азербайджана ###"
+  },
+  {
+   "file": "chunk_000412.txt",
+   "bytes": 20977253,
+   "md5": "d63c51879ca811ebc253b948cf72282f",
+   "articles": 4183,
+   "first_title": "### Рехавия (гимназия) ###"
+  },
+  {
+   "file": "chunk_000413.txt",
+   "bytes": 20972262,
+   "md5": "ea4e77f5556fc0e331209b80acb4b88a",
+   "articles": 4000,
+   "first_title": "### Ашахманов, Павел Иванович ###"
+  },
+  {
+   "file": "chunk_000414.txt",
+   "bytes": 20972662,
+   "md5": "c9a0b1919fd8484417e40ba6df8b6563",
+   "articles": 3942,
+   "first_title": "### Гольдштейн, Роберт Вениаминович ###"
+  },
+  {
+   "file": "chunk_000415.txt",
+   "bytes": 20985987,
+   "md5": "7bac7bd64b589ea142edec3c492f8613",
+   "articles": 4139,
+   "first_title": "### Во имя любви (телесериал, 2008) ###"
+  },
+  {
+   "file": "chunk_000416.txt",
+   "bytes": 20979726,
+   "md5": "672578ad7aa2fecc57e250d9e0ab1299",
+   "articles": 3877,
+   "first_title": "### Уханов, Иван Сергеевич ###"
+  },
+  {
+   "file": "chunk_000417.txt",
+   "bytes": 20971929,
+   "md5": "c4006341b7f146df128e0752a9195271",
+   "articles": 3741,
+   "first_title": "### Мадуи, Хайреддин ###"
+  },
+  {
+   "file": "chunk_000418.txt",
+   "bytes": 20971654,
+   "md5": "f1d198b6f6416efdd8b5bdb73c4818c7",
+   "articles": 3476,
+   "first_title": "### Кальдезия ###"
+  },
+  {
+   "file": "chunk_000419.txt",
+   "bytes": 20975869,
+   "md5": "27a329fc6389876fd0a36f6c786342ae",
+   "articles": 3367,
+   "first_title": "### Серия (стратиграфическое подразделение) ###"
+  },
+  {
+   "file": "chunk_000420.txt",
+   "bytes": 20975389,
+   "md5": "01ff3d296ba06ea5e5d4baa6a4ef5ccf",
+   "articles": 3626,
+   "first_title": "### Лопацинский, Станислав Игнатьевич ###"
+  },
+  {
+   "file": "chunk_000421.txt",
+   "bytes": 20974236,
+   "md5": "f20bbea03c93a194e6daf7246ec5f258",
+   "articles": 3607,
+   "first_title": "### Чемпионат Европы по шоссейному велоспорту 2017 — групповая гонка (юниоры) ###"
+  },
+  {
+   "file": "chunk_000422.txt",
+   "bytes": 20977211,
+   "md5": "6caf509b3fe40aa0d8b5a366a0f54b0d",
+   "articles": 3883,
+   "first_title": "### Пелен, Лео ###"
+  },
+  {
+   "file": "chunk_000423.txt",
+   "bytes": 21019693,
+   "md5": "ea013d05e1fc89fe680045a9b95097d0",
+   "articles": 3679,
+   "first_title": "### Озёрки (Духовницкий район) ###"
+  },
+  {
+   "file": "chunk_000424.txt",
+   "bytes": 20976743,
+   "md5": "58fd2a753ee0349f8b99ae2b1820856c",
+   "articles": 3811,
+   "first_title": "### Ювеналий (Мокрицкий) ###"
+  },
+  {
+   "file": "chunk_000425.txt",
+   "bytes": 20972234,
+   "md5": "a928883b8dc49b52572ce0d9aa8d5014",
+   "articles": 3743,
+   "first_title": "### Годе, Соня ###"
+  },
+  {
+   "file": "chunk_000426.txt",
+   "bytes": 20974823,
+   "md5": "69c38efa9cd5d14fed8ddb107ed727a6",
+   "articles": 3614,
+   "first_title": "### Гетьманчук, Юрий Петрович ###"
+  },
+  {
+   "file": "chunk_000427.txt",
+   "bytes": 20974371,
+   "md5": "195907987d52a2ec3c6031c801b420f7",
+   "articles": 3714,
+   "first_title": "### Смолин, Дмитрий Петрович ###"
+  },
+  {
+   "file": "chunk_000428.txt",
+   "bytes": 20979498,
+   "md5": "f082ccecc83e99195ff1f3e66ee83484",
+   "articles": 3842,
+   "first_title": "### China National Gold Group Corporation ###"
+  },
+  {
+   "file": "chunk_000429.txt",
+   "bytes": 20987770,
+   "md5": "5d2466dd6f4dba0d8ff7df89ad2f878b",
+   "articles": 3623,
+   "first_title": "### День оранжистов ###"
+  },
+  {
+   "file": "chunk_000430.txt",
+   "bytes": 20972642,
+   "md5": "ee4f6a3a0a31fa3ea75c42c1d8ab9721",
+   "articles": 3562,
+   "first_title": "### Савин, Сергей Николаевич ###"
+  },
+  {
+   "file": "chunk_000431.txt",
+   "bytes": 20975839,
+   "md5": "195d41f7a1430b39b5b5a043f6366d3b",
+   "articles": 3479,
+   "first_title": "### Сухих, Павел Валерьевич ###"
+  },
+  {
+   "file": "chunk_000432.txt",
+   "bytes": 20973273,
+   "md5": "365ef3b95cc7e277256a39eeef87df34",
+   "articles": 3927,
+   "first_title": "### Д’Обюссон де Мартинес, Мариса ###"
+  },
+  {
+   "file": "chunk_000433.txt",
+   "bytes": 20977504,
+   "md5": "721e28208117244a9092895651cbc1a9",
+   "articles": 4025,
+   "first_title": "### Диапории ###"
+  },
+  {
+   "file": "chunk_000434.txt",
+   "bytes": 20971917,
+   "md5": "b6eddc35a761ad3dd9dccc4c1df91946",
+   "articles": 4063,
+   "first_title": "### Северный Китай Тип 19 ###"
+  },
+  {
+   "file": "chunk_000435.txt",
+   "bytes": 20972771,
+   "md5": "e2d9b83d18dfa3bee52c77f3202a00ba",
+   "articles": 4037,
+   "first_title": "### Никольская, Любовь Борисовна ###"
+  },
+  {
+   "file": "chunk_000436.txt",
+   "bytes": 20975351,
+   "md5": "0bd3b90036e0684dc3229244c0709bd2",
+   "articles": 3686,
+   "first_title": "### Астерикс и тайное зелье ###"
+  },
+  {
+   "file": "chunk_000437.txt",
+   "bytes": 20981788,
+   "md5": "f991b6aec6eefb5854bcee6748a69b16",
+   "articles": 3305,
+   "first_title": "### Новоделы золотых монет Российской империи ###"
+  },
+  {
+   "file": "chunk_000438.txt",
+   "bytes": 20980840,
+   "md5": "70d6bb67614e09db6eb864d1d2b79beb",
+   "articles": 3537,
+   "first_title": "### Арсе, Педро Хосе ###"
+  },
+  {
+   "file": "chunk_000439.txt",
+   "bytes": 20971644,
+   "md5": "7478c6ec99ade57933b62913efd0fe5c",
+   "articles": 3619,
+   "first_title": "### Церковь Пресвятой Девы Марии Милосердия (Белен) ###"
+  },
+  {
+   "file": "chunk_000440.txt",
+   "bytes": 20975822,
+   "md5": "3a0e9d774f10a11128a320fd812d958d",
+   "articles": 3824,
+   "first_title": "### Малтезос, Христос ###"
+  },
+  {
+   "file": "chunk_000441.txt",
+   "bytes": 20975463,
+   "md5": "d6b9ba03ad8794ee6f83f9e095ccc6d7",
+   "articles": 3727,
+   "first_title": "### Копанев ###"
+  },
+  {
+   "file": "chunk_000442.txt",
+   "bytes": 20973582,
+   "md5": "89c126aa19b81e6dafc025364fe5de2c",
+   "articles": 4009,
+   "first_title": "### Тразарих (епископ) ###"
+  },
+  {
+   "file": "chunk_000443.txt",
+   "bytes": 20974014,
+   "md5": "574bfc7a54d59e76d190dce8137f8189",
+   "articles": 3826,
+   "first_title": "### Флаг Коми АССР ###"
+  },
+  {
+   "file": "chunk_000444.txt",
+   "bytes": 20974548,
+   "md5": "efe423cf0b0dae7a8394881d1f13507f",
+   "articles": 3717,
+   "first_title": "### Княгинино (Севский район) ###"
+  },
+  {
+   "file": "chunk_000445.txt",
+   "bytes": 20971901,
+   "md5": "5e6f5693e400e7f070df67cdc494ee65",
+   "articles": 3634,
+   "first_title": "### Валовский Хутор ###"
+  },
+  {
+   "file": "chunk_000446.txt",
+   "bytes": 20974956,
+   "md5": "ec0a6027b59c618638403b40a988cc99",
+   "articles": 3698,
+   "first_title": "### Остин, Эбигейл ###"
+  },
+  {
+   "file": "chunk_000447.txt",
+   "bytes": 20974103,
+   "md5": "448f425e436b351a6f79496f068a105f",
+   "articles": 3729,
+   "first_title": "### Сугита, Мио ###"
+  },
+  {
+   "file": "chunk_000448.txt",
+   "bytes": 20972422,
+   "md5": "2476c70592df5ecde034e75fb18b11f4",
+   "articles": 3562,
+   "first_title": "### Министерство сельского хозяйства, лесных и водных ресурсов Республики Сербской ###"
+  },
+  {
+   "file": "chunk_000449.txt",
+   "bytes": 20972083,
+   "md5": "dabb9a15cf31ed6d736d843f428ed272",
+   "articles": 3801,
+   "first_title": "### Малый Орешкин ###"
+  },
+  {
+   "file": "chunk_000450.txt",
+   "bytes": 20983900,
+   "md5": "5592469ae8d5aceadba4545bdc63c6f3",
+   "articles": 3524,
+   "first_title": "### Инстинкт (1-й сезон) ###"
+  },
+  {
+   "file": "chunk_000451.txt",
+   "bytes": 20975466,
+   "md5": "2df1d5e7202189d69073a92610e5ecd0",
+   "articles": 3676,
+   "first_title": "### Краснослободский ###"
+  },
+  {
+   "file": "chunk_000452.txt",
+   "bytes": 20977682,
+   "md5": "a6dbc7a9b2e815d67d3fe113ad87f770",
+   "articles": 3442,
+   "first_title": "### Вюлье, Франсуа ###"
+  },
+  {
+   "file": "chunk_000453.txt",
+   "bytes": 20997451,
+   "md5": "591a0b4daee259a189a6647fcdfc2d33",
+   "articles": 3464,
+   "first_title": "### Xiaomi Mi 9 ###"
+  },
+  {
+   "file": "chunk_000454.txt",
+   "bytes": 20974942,
+   "md5": "57e21dce1d05267e298b230b31431c19",
+   "articles": 3569,
+   "first_title": "### 23-й артиллерийский полк ###"
+  },
+  {
+   "file": "chunk_000455.txt",
+   "bytes": 20971841,
+   "md5": "5f537ee48c6c935cb19826543c29a5aa",
+   "articles": 3530,
+   "first_title": "### Аринкин (хутор) ###"
+  },
+  {
+   "file": "chunk_000456.txt",
+   "bytes": 20976261,
+   "md5": "ada5fba8799dffd522ffeb255c54a242",
+   "articles": 3767,
+   "first_title": "### Старов, Владимир Георгиевич ###"
+  },
+  {
+   "file": "chunk_000457.txt",
+   "bytes": 20976841,
+   "md5": "52ab3a07fc5526158633bd62470adbd7",
+   "articles": 3571,
+   "first_title": "### Мунзук, Галина Максимовна ###"
+  },
+  {
+   "file": "chunk_000458.txt",
+   "bytes": 20972922,
+   "md5": "39e00d468bc728fa6e8f6289adb57609",
+   "articles": 3169,
+   "first_title": "### Вечерний М ###"
+  },
+  {
+   "file": "chunk_000459.txt",
+   "bytes": 20991848,
+   "md5": "6625d78eebb72a1fa493a88e7809b5d8",
+   "articles": 3215,
+   "first_title": "### Паллавичини, Гульельма ###"
+  },
+  {
+   "file": "chunk_000460.txt",
+   "bytes": 20973434,
+   "md5": "49beb187c499a9e875668f0c42cd2e4d",
+   "articles": 3353,
+   "first_title": "### Хильдур ###"
+  },
+  {
+   "file": "chunk_000461.txt",
+   "bytes": 20972473,
+   "md5": "ff30c401d6d3eba9cfc65606815fb46e",
+   "articles": 3300,
+   "first_title": "### Аббатство Сен-Луп в Труа ###"
+  },
+  {
+   "file": "chunk_000462.txt",
+   "bytes": 20971576,
+   "md5": "28f17598743f8289199bb3301ec2d653",
+   "articles": 3635,
+   "first_title": "### Родовая опухоль ###"
+  },
+  {
+   "file": "chunk_000463.txt",
+   "bytes": 20987842,
+   "md5": "4c7ea049ecccfa9c4db84ed9e56d005b",
+   "articles": 3787,
+   "first_title": "### Бессарабский протокол ###"
+  },
+  {
+   "file": "chunk_000464.txt",
+   "bytes": 20983631,
+   "md5": "4494e7b8b3ec0efa00d11c45879c7162",
+   "articles": 3784,
+   "first_title": "### Султанова, Ася Бахиш-кызы ###"
+  },
+  {
+   "file": "chunk_000465.txt",
+   "bytes": 20972346,
+   "md5": "18dbbda8f745baea88968c3e1a437ea3",
+   "articles": 3708,
+   "first_title": "### Прингл, Уильям Генри ###"
+  },
+  {
+   "file": "chunk_000466.txt",
+   "bytes": 20971776,
+   "md5": "00e016e3352fa0a323384e43892290af",
+   "articles": 3785,
+   "first_title": "### IL3RA ###"
+  },
+  {
+   "file": "chunk_000467.txt",
+   "bytes": 20973464,
+   "md5": "d9e8064b1d2b975d247ea60f5bf192d4",
+   "articles": 4252,
+   "first_title": "### Яковенко, Лидия Ивановна ###"
+  },
+  {
+   "file": "chunk_000468.txt",
+   "bytes": 20971561,
+   "md5": "7aacda7f27903c188cdf84a844e67fca",
+   "articles": 4110,
+   "first_title": "### ВС КР ###"
+  },
+  {
+   "file": "chunk_000469.txt",
+   "bytes": 20971845,
+   "md5": "d1281959fdc8065a1ed15968386729b7",
+   "articles": 3876,
+   "first_title": "### Бергман, Эллен ###"
+  },
+  {
+   "file": "chunk_000470.txt",
+   "bytes": 20977045,
+   "md5": "ef14c0592b95a8f1e0fa2a58f931b6c8",
+   "articles": 4603,
+   "first_title": "### Шойх, Эрвин ###"
+  },
+  {
+   "file": "chunk_000471.txt",
+   "bytes": 20975063,
+   "md5": "e38f42b5d841c0d667f6702be5f605a1",
+   "articles": 4669,
+   "first_title": "### Данек, Олдржих ###"
+  },
+  {
+   "file": "chunk_000472.txt",
+   "bytes": 21001035,
+   "md5": "84e325c7d8e39d4de1e6c96422251e46",
+   "articles": 4126,
+   "first_title": "### Сигово (озеро, Карелия) ###"
+  },
+  {
+   "file": "chunk_000473.txt",
+   "bytes": 20975789,
+   "md5": "fdf516eb6579863aab9bacfec1ebe495",
+   "articles": 4123,
+   "first_title": "### Оставшееся время (книга) ###"
+  },
+  {
+   "file": "chunk_000474.txt",
+   "bytes": 20973917,
+   "md5": "186d6ca054044bc733be88dd205ea250",
+   "articles": 4284,
+   "first_title": "### Спрингер, Аарон ###"
+  },
+  {
+   "file": "chunk_000475.txt",
+   "bytes": 20971630,
+   "md5": "94402aae02987f73c9883d3df351a467",
+   "articles": 4221,
+   "first_title": "### Пул, Малкольм ###"
+  },
+  {
+   "file": "chunk_000476.txt",
+   "bytes": 20971737,
+   "md5": "42ea930804cecdeeb74f5099a76cb9f1",
+   "articles": 4613,
+   "first_title": "### Нилиги ###"
+  },
+  {
+   "file": "chunk_000477.txt",
+   "bytes": 20974539,
+   "md5": "f9539ce4165ea45d48c2ad81cb67a906",
+   "articles": 4193,
+   "first_title": "### Кална (Црна-Трава) ###"
+  },
+  {
+   "file": "chunk_000478.txt",
+   "bytes": 20971667,
+   "md5": "0dca53343f8c97f06931396c19927ed5",
+   "articles": 4142,
+   "first_title": "### Дом-музей Сулеймана Юдакова ###"
+  },
+  {
+   "file": "chunk_000479.txt",
+   "bytes": 20971620,
+   "md5": "bd76a1effab666bb5f597603e7a15a14",
+   "articles": 4097,
+   "first_title": "### Куницуна Утагава ###"
+  },
+  {
+   "file": "chunk_000480.txt",
+   "bytes": 20972647,
+   "md5": "62a6b942d99dfb99aa11023b8523ac72",
+   "articles": 3858,
+   "first_title": "### Cinematic ###"
+  },
+  {
+   "file": "chunk_000481.txt",
+   "bytes": 20972853,
+   "md5": "1383b17fdbc444aa30844d8614206876",
+   "articles": 4188,
+   "first_title": "### Улица Меховщиков (Казань) ###"
+  },
+  {
+   "file": "chunk_000482.txt",
+   "bytes": 20972179,
+   "md5": "b53690f6b6efbfc6b147e16b2a7f08a4",
+   "articles": 3780,
+   "first_title": "### Аменокаль ###"
+  },
+  {
+   "file": "chunk_000483.txt",
+   "bytes": 20972898,
+   "md5": "aa7a54c2a1466876c81cca5c042f5eb1",
+   "articles": 4284,
+   "first_title": "### Гернандт, Тиго ###"
+  },
+  {
+   "file": "chunk_000484.txt",
+   "bytes": 20980402,
+   "md5": "a9e670c9009229c65ef00e1a08828f78",
+   "articles": 3590,
+   "first_title": "### Улица Ярославны (Чернигов) ###"
+  },
+  {
+   "file": "chunk_000485.txt",
+   "bytes": 20977203,
+   "md5": "d78b32753b24521f60ad5340c21434dc",
+   "articles": 3534,
+   "first_title": "### Абдуллово ###"
+  },
+  {
+   "file": "chunk_000486.txt",
+   "bytes": 20982383,
+   "md5": "585d03568f082efde24cdd93a5f0a23b",
+   "articles": 4043,
+   "first_title": "### I Know (песня Дионн Фэррис) ###"
+  },
+  {
+   "file": "chunk_000487.txt",
+   "bytes": 20985350,
+   "md5": "109c7823ef178940d826d450c566e03c",
+   "articles": 3638,
+   "first_title": "### Бейтс, Сара ###"
+  },
+  {
+   "file": "chunk_000488.txt",
+   "bytes": 20972446,
+   "md5": "5e27ab3939c6e9695f4f8c665c8f973e",
+   "articles": 4017,
+   "first_title": "### Нижний Армязь ###"
+  },
+  {
+   "file": "chunk_000489.txt",
+   "bytes": 20973590,
+   "md5": "485cf85acdb719932e22bef1d23c6e5b",
+   "articles": 3894,
+   "first_title": "### Атайя, Бхану ###"
+  },
+  {
+   "file": "chunk_000490.txt",
+   "bytes": 20973760,
+   "md5": "3e07a6a269e5c745151ab76ca3f6e22f",
+   "articles": 3757,
+   "first_title": "### Айо, Бенес Христоферович ###"
+  },
+  {
+   "file": "chunk_000491.txt",
+   "bytes": 20997587,
+   "md5": "67e3e8ee557b93e9e11d895d5cb7da63",
+   "articles": 4074,
+   "first_title": "### Montero (Call Me By Your Name) ###"
+  },
+  {
+   "file": "chunk_000492.txt",
+   "bytes": 21008320,
+   "md5": "7701f75156525a0747a71408f17d3944",
+   "articles": 4147,
+   "first_title": "### Дингли, Джим ###"
+  },
+  {
+   "file": "chunk_000493.txt",
+   "bytes": 20973663,
+   "md5": "3f8f8f14a0bd3c4aed026568c65b11d5",
+   "articles": 3952,
+   "first_title": "### Билтховенские встречи ###"
+  },
+  {
+   "file": "chunk_000494.txt",
+   "bytes": 20973338,
+   "md5": "be5bf10793eea1d341d7943a1c1c5b9f",
+   "articles": 4089,
+   "first_title": "### Индекс глобализации ###"
+  },
+  {
+   "file": "chunk_000495.txt",
+   "bytes": 21154012,
+   "md5": "b8b11fa9e8a716e111cffdd354dc7286",
+   "articles": 3900,
+   "first_title": "### Пенсири Лаосирикул ###"
+  },
+  {
+   "file": "chunk_000496.txt",
+   "bytes": 20973181,
+   "md5": "c491750791ef34e9fcb8c912662f69b8",
+   "articles": 4049,
+   "first_title": "### Шостек (деревня) ###"
+  },
+  {
+   "file": "chunk_000497.txt",
+   "bytes": 20972964,
+   "md5": "5c5c7453c80a6da00404919c08c11155",
+   "articles": 3948,
+   "first_title": "### Политическая философия Платона ###"
+  },
+  {
+   "file": "chunk_000498.txt",
+   "bytes": 20973651,
+   "md5": "b659a884b0a395ba0fe470ba2dcb750f",
+   "articles": 3919,
+   "first_title": "### Поясничные артерии ###"
+  },
+  {
+   "file": "chunk_000499.txt",
+   "bytes": 20972059,
+   "md5": "23f84dc7d74608b3d2c2fe878f2d18fc",
+   "articles": 3771,
+   "first_title": "### Поповецкие Выселки ###"
+  },
+  {
+   "file": "chunk_000500.txt",
+   "bytes": 20978295,
+   "md5": "92051a0d15a5bd38099ff29b8725c9c9",
+   "articles": 4235,
+   "first_title": "### Finiko ###"
+  },
+  {
+   "file": "chunk_000501.txt",
+   "bytes": 20973411,
+   "md5": "f00fb1cacb0ccecd35e7fca24bae6862",
+   "articles": 3515,
+   "first_title": "### Уилсон, Малкольм ###"
+  },
+  {
+   "file": "chunk_000502.txt",
+   "bytes": 21016335,
+   "md5": "c02927563e3ac239a36c0b731ecfe494",
+   "articles": 3698,
+   "first_title": "### Липаза карбоксильного эфира ###"
+  },
+  {
+   "file": "chunk_000503.txt",
+   "bytes": 20979649,
+   "md5": "c61b2dacb58e53d3b17f9e6d1a89fdb7",
+   "articles": 3959,
+   "first_title": "### Армения на летних Паралимпийских играх 2020 ###"
+  },
+  {
+   "file": "chunk_000504.txt",
+   "bytes": 20974575,
+   "md5": "e19e204bb8396cdeefbf5398f9f0d1b0",
+   "articles": 3898,
+   "first_title": "### Инерымбал ###"
+  },
+  {
+   "file": "chunk_000505.txt",
+   "bytes": 20972367,
+   "md5": "abff2d4d3ce6d015412181f5b5fe2937",
+   "articles": 4243,
+   "first_title": "### Кара-Мустафа, Дмитрий Алексеевич ###"
+  },
+  {
+   "file": "chunk_000506.txt",
+   "bytes": 20977187,
+   "md5": "28d93dbbc157aee521c9769dd0fcaccc",
+   "articles": 4138,
+   "first_title": "### Чаны (станция) ###"
+  },
+  {
+   "file": "chunk_000507.txt",
+   "bytes": 20977633,
+   "md5": "b907478d334917b84a4ea74d8002354f",
+   "articles": 4173,
+   "first_title": "### Пятчино (Порховский район) ###"
+  },
+  {
+   "file": "chunk_000508.txt",
+   "bytes": 20972607,
+   "md5": "bf10b1cc19b79f6f210fbe5953f6ea2a",
+   "articles": 4330,
+   "first_title": "### Зехри, Наваб Санауллах Хан ###"
+  },
+  {
+   "file": "chunk_000509.txt",
+   "bytes": 20993599,
+   "md5": "77b6e9af169ba54a4f0c2a1273540a8f",
+   "articles": 4026,
+   "first_title": "### Агдау ###"
+  },
+  {
+   "file": "chunk_000510.txt",
+   "bytes": 20977899,
+   "md5": "27d832f82fda8fc0f67b2fa37bfc61eb",
+   "articles": 3883,
+   "first_title": "### Ги I де Клермон де Нель ###"
+  },
+  {
+   "file": "chunk_000511.txt",
+   "bytes": 20991377,
+   "md5": "ca1100595b9886df609fda5ec423da75",
+   "articles": 4140,
+   "first_title": "### Дашджа ###"
+  },
+  {
+   "file": "chunk_000512.txt",
+   "bytes": 20974862,
+   "md5": "1bff15f977ca9410961e50f5b53bfe6e",
+   "articles": 3986,
+   "first_title": "### Ир (латиница) ###"
+  },
+  {
+   "file": "chunk_000513.txt",
+   "bytes": 20983143,
+   "md5": "62784dbc4585fded216f77f1ed6ef934",
+   "articles": 4506,
+   "first_title": "### Маёвка (Татарстан) ###"
+  },
+  {
+   "file": "chunk_000514.txt",
+   "bytes": 20991510,
+   "md5": "194220205161e8a421ac0532a4cfaa1f",
+   "articles": 3994,
+   "first_title": "### Горепекин, Фома Иванович ###"
+  },
+  {
+   "file": "chunk_000515.txt",
+   "bytes": 20976050,
+   "md5": "7dc0e88d95d79aabf3b4c370c8fa692e",
+   "articles": 4346,
+   "first_title": "### Благодать (Орловская область) ###"
+  },
+  {
+   "file": "chunk_000516.txt",
+   "bytes": 20980353,
+   "md5": "64e7c5231722fc8ea1cdc069b3671f64",
+   "articles": 4297,
+   "first_title": "### Ларин, Сергей Юрьевич ###"
+  },
+  {
+   "file": "chunk_000517.txt",
+   "bytes": 21004032,
+   "md5": "3d2a7ee7ee8cf7ccf13f031ad53e81c8",
+   "articles": 4237,
+   "first_title": "### Бьюфёрд, Мэрилин ###"
+  },
+  {
+   "file": "chunk_000518.txt",
+   "bytes": 20972222,
+   "md5": "0ab2df3f4cd388d1e34945c2263a89cb",
+   "articles": 3953,
+   "first_title": "### Санаторий Г. А. Каратаевой ###"
+  },
+  {
+   "file": "chunk_000519.txt",
+   "bytes": 20972574,
+   "md5": "41e26c1770348a0d5b8d5b2bd99638fc",
+   "articles": 4289,
+   "first_title": "### Зубовка (Тульская область) ###"
+  },
+  {
+   "file": "chunk_000520.txt",
+   "bytes": 20979588,
+   "md5": "30f9fff40d100984c04e528ee133cef1",
+   "articles": 4362,
+   "first_title": "### Труфаново (Котласский район) ###"
+  },
+  {
+   "file": "chunk_000521.txt",
+   "bytes": 21031077,
+   "md5": "3d3ae50245a606b4a2981472333b2fd7",
+   "articles": 4259,
+   "first_title": "### Остин, Шакира ###"
+  },
+  {
+   "file": "chunk_000522.txt",
+   "bytes": 20972210,
+   "md5": "d9ffa488efee6a96c150ae1441795327",
+   "articles": 4645,
+   "first_title": "### Энник, Леон ###"
+  },
+  {
+   "file": "chunk_000523.txt",
+   "bytes": 21004489,
+   "md5": "05ec00c0f97555af96e2a983824f8a8a",
+   "articles": 4952,
+   "first_title": "### Западный военный округ (КНР) ###"
+  },
+  {
+   "file": "chunk_000524.txt",
+   "bytes": 20975983,
+   "md5": "156117ac5989aed83a154ff92cb72490",
+   "articles": 4607,
+   "first_title": "### Дом «У Золотого орла» ###"
+  },
+  {
+   "file": "chunk_000525.txt",
+   "bytes": 20982090,
+   "md5": "1cc5a7ce7ece30d04f3569f7f0d6b370",
+   "articles": 4109,
+   "first_title": "### Гудинг, Мейсон ###"
+  },
+  {
+   "file": "chunk_000526.txt",
+   "bytes": 20973523,
+   "md5": "e2dafbe976ba7bceaf0453e1e0639330",
+   "articles": 4191,
+   "first_title": "### Васино (Уткинское сельское поселение) ###"
+  },
+  {
+   "file": "chunk_000527.txt",
+   "bytes": 20980724,
+   "md5": "bb0096ca77e86fd025cb47dcb256ce47",
+   "articles": 4170,
+   "first_title": "### Синицкое ###"
+  },
+  {
+   "file": "chunk_000528.txt",
+   "bytes": 20977794,
+   "md5": "c22633b2cf74e98eef97bcc6cf4595c0",
+   "articles": 3945,
+   "first_title": "### Кардозо, Жентил ###"
+  },
+  {
+   "file": "chunk_000529.txt",
+   "bytes": 20998488,
+   "md5": "5a3a70dce0674c48c6aa0f3da5deb972",
+   "articles": 4256,
+   "first_title": "### Поваляевы Дворы ###"
+  },
+  {
+   "file": "chunk_000530.txt",
+   "bytes": 20975172,
+   "md5": "b709cbd2ac8612498d8b252d09e4f3b1",
+   "articles": 4079,
+   "first_title": "### Малая Горка (Хвойнинский район) ###"
+  },
+  {
+   "file": "chunk_000531.txt",
+   "bytes": 20971838,
+   "md5": "6f3ad58413a8fbd08e560a47669c842e",
+   "articles": 4235,
+   "first_title": "### Рэнди Рэмпейдж ###"
+  },
+  {
+   "file": "chunk_000532.txt",
+   "bytes": 20973789,
+   "md5": "1ad188e78eadad87e38c6463139c1d76",
+   "articles": 3592,
+   "first_title": "### Гаплогруппа R-Z2103 ###"
+  },
+  {
+   "file": "chunk_000533.txt",
+   "bytes": 20973170,
+   "md5": "4bbbb88bdefc0fbd6d4e1dd2bd75a8d2",
+   "articles": 4530,
+   "first_title": "### Шостак, Арон Захарович ###"
+  },
+  {
+   "file": "chunk_000534.txt",
+   "bytes": 20972729,
+   "md5": "07ff101014b154a8630549c1d882321f",
+   "articles": 4265,
+   "first_title": "### Улица Достоевского (Воронеж) ###"
+  },
+  {
+   "file": "chunk_000535.txt",
+   "bytes": 20972880,
+   "md5": "b750f3cfa235934bdfc4ac5ad7ade052",
+   "articles": 4733,
+   "first_title": "### Туше, Джеймс, 3-й граф Каслхейвен ###"
+  },
+  {
+   "file": "chunk_000536.txt",
+   "bytes": 20987017,
+   "md5": "ca769e3f7d24c6e9e91620775d3734d9",
+   "articles": 4388,
+   "first_title": "### Дача Понизовкиных ###"
+  },
+  {
+   "file": "chunk_000537.txt",
+   "bytes": 20973950,
+   "md5": "d9be7b36294c80319f34c68e7d8e364c",
+   "articles": 4439,
+   "first_title": "### Кубасово (Тверская область) ###"
+  },
+  {
+   "file": "chunk_000538.txt",
+   "bytes": 20975624,
+   "md5": "3ab672935baf6d6e3d85f93cc4d9ff43",
+   "articles": 4294,
+   "first_title": "### Марково (Суворовский район) ###"
+  },
+  {
+   "file": "chunk_000539.txt",
+   "bytes": 20976122,
+   "md5": "4cf28f1cfdceb3d4f03b17ca56c9e196",
+   "articles": 4301,
+   "first_title": "### Тинева ###"
+  },
+  {
+   "file": "chunk_000540.txt",
+   "bytes": 20984261,
+   "md5": "5adfd78defd0f2d313cba37840a104d7",
+   "articles": 4427,
+   "first_title": "### Николай (Кутрумбис) ###"
+  },
+  {
+   "file": "chunk_000541.txt",
+   "bytes": 20973053,
+   "md5": "60d0718bc29a70e5225b3b619471e6c4",
+   "articles": 4581,
+   "first_title": "### Орловский (Мошковский район) ###"
+  },
+  {
+   "file": "chunk_000542.txt",
+   "bytes": 20976538,
+   "md5": "a2db0084f21471b581de2a7ed3ca1d86",
+   "articles": 4265,
+   "first_title": "### Ларссон, Гуннар (пловец) ###"
+  },
+  {
+   "file": "chunk_000543.txt",
+   "bytes": 20972633,
+   "md5": "af480f456624fabd4f436aab4a56e86a",
+   "articles": 4461,
+   "first_title": "### Postauto (Автобус швейцарской почты) ###"
+  },
+  {
+   "file": "chunk_000544.txt",
+   "bytes": 20974205,
+   "md5": "2ee78089240a926de59593d1aa0f81eb",
+   "articles": 4260,
+   "first_title": "### Починок (Семловский сельский округ) ###"
+  },
+  {
+   "file": "chunk_000545.txt",
+   "bytes": 20983430,
+   "md5": "32c5325a5eaa867dea25e3767348a839",
+   "articles": 3796,
+   "first_title": "### Бангладеш на Сурдлимпийских играх ###"
+  },
+  {
+   "file": "chunk_000546.txt",
+   "bytes": 20981203,
+   "md5": "6fc4a2428b2ff65ef39dd3ee3ba2ea0d",
+   "articles": 3896,
+   "first_title": "### Чаньково ###"
+  },
+  {
+   "file": "chunk_000547.txt",
+   "bytes": 20971780,
+   "md5": "eac78e9ec9293a95e399a8a08679a1f6",
+   "articles": 4134,
+   "first_title": "### Автопилот (журнал) ###"
+  },
+  {
+   "file": "chunk_000548.txt",
+   "bytes": 20976355,
+   "md5": "f077e7f401d66c7f76c6bac1570bc300",
+   "articles": 4075,
+   "first_title": "### Сент-Томас (Барбадос) ###"
+  },
+  {
+   "file": "chunk_000549.txt",
+   "bytes": 20973752,
+   "md5": "87aa805b9d566641814c1160d6b8c39a",
+   "articles": 3946,
+   "first_title": "### Asaphidae ###"
+  },
+  {
+   "file": "chunk_000550.txt",
+   "bytes": 20978766,
+   "md5": "41220f7ccdedba768f69e829cedb43dd",
+   "articles": 3539,
+   "first_title": "### Сарториус, Иоганн Баптист ###"
+  },
+  {
+   "file": "chunk_000551.txt",
+   "bytes": 20971824,
+   "md5": "9a62e08c22230e7b1343532f3d344346",
+   "articles": 4055,
+   "first_title": "### Лэмпли, Джим ###"
+  },
+  {
+   "file": "chunk_000552.txt",
+   "bytes": 20979270,
+   "md5": "889aea7fdd56b0ee75f95e7f0cf3d1e6",
+   "articles": 3733,
+   "first_title": "### Диарра, Мусса (футболист, 2000) ###"
+  },
+  {
+   "file": "chunk_000553.txt",
+   "bytes": 20985174,
+   "md5": "fd0fb75484d178a387d399e1cab48331",
+   "articles": 3880,
+   "first_title": "### Таказов, Федар Магометович ###"
+  },
+  {
+   "file": "chunk_000554.txt",
+   "bytes": 20974194,
+   "md5": "44e5689de7b042226e2d668ff7132b20",
+   "articles": 3903,
+   "first_title": "### Международный совет на высшем уровне за мир ###"
+  },
+  {
+   "file": "chunk_000555.txt",
+   "bytes": 20974147,
+   "md5": "96ad607f282741aa44fc50b8b24200a3",
+   "articles": 3896,
+   "first_title": "### Хулихан, Шелби ###"
+  },
+  {
+   "file": "chunk_000556.txt",
+   "bytes": 20976690,
+   "md5": "8b0fe5239767628469ca2961916f258e",
+   "articles": 4067,
+   "first_title": "### Т-401 (тральщик, 1934) ###"
+  },
+  {
+   "file": "chunk_000557.txt",
+   "bytes": 20974720,
+   "md5": "67e015b55a41945d7b23f7dbcf38a053",
+   "articles": 3806,
+   "first_title": "### Нойгут ###"
+  },
+  {
+   "file": "chunk_000558.txt",
+   "bytes": 20972355,
+   "md5": "19060a60b4ae74ca5b59a43f6edab9d0",
+   "articles": 3919,
+   "first_title": "### Вака, Генри ###"
+  },
+  {
+   "file": "chunk_000559.txt",
+   "bytes": 20971706,
+   "md5": "a2a12420f7ed98913c5502a5fc43cbec",
+   "articles": 3882,
+   "first_title": "### Флеш Арденн 2024 ###"
+  },
+  {
+   "file": "chunk_000560.txt",
+   "bytes": 20972898,
+   "md5": "384229326cd13c87ae83b47f915a00bd",
+   "articles": 4285,
+   "first_title": "### Доходный дом И. П. Володихина ###"
+  },
+  {
+   "file": "chunk_000561.txt",
+   "bytes": 21009257,
+   "md5": "249b6d1d92991a331627eaa1ca1392e7",
+   "articles": 3888,
+   "first_title": "### Церковь Вознесения Господня (Севастополь) ###"
+  },
+  {
+   "file": "chunk_000562.txt",
+   "bytes": 20974168,
+   "md5": "421f672739c2de9aaa0353573111399b",
+   "articles": 4568,
+   "first_title": "### IDS Center ###"
+  },
+  {
+   "file": "chunk_000563.txt",
+   "bytes": 20982985,
+   "md5": "3b10a06abaa1c52676d4cdba358698b9",
+   "articles": 4178,
+   "first_title": "### Кочкин, Юрий ###"
+  },
+  {
+   "file": "chunk_000564.txt",
+   "bytes": 20973511,
+   "md5": "99f9b223212814a22ac9cc9246b44399",
+   "articles": 4329,
+   "first_title": "### Сохбетов, Осман ###"
+  },
+  {
+   "file": "chunk_000565.txt",
+   "bytes": 20972174,
+   "md5": "99e8a71eb8e56d8fa1764833149e134b",
+   "articles": 4416,
+   "first_title": "### Дзвели-Сенаки ###"
+  },
+  {
+   "file": "chunk_000566.txt",
+   "bytes": 20973172,
+   "md5": "87147900003f74b29959726b2d21bee1",
+   "articles": 4265,
+   "first_title": "### Эльзенер, Карл (футболист) ###"
+  },
+  {
+   "file": "chunk_000567.txt",
+   "bytes": 20978408,
+   "md5": "d7ef9a758ce302a29ee4040feed718df",
+   "articles": 3738,
+   "first_title": "### Полумесяц (шмак) ###"
+  },
+  {
+   "file": "chunk_000568.txt",
+   "bytes": 20972746,
+   "md5": "a64d2927e2f4cabe0813b4cf05f20b32",
+   "articles": 4063,
+   "first_title": "### Ефимьево (Владимирская область) ###"
+  },
+  {
+   "file": "chunk_000569.txt",
+   "bytes": 20971971,
+   "md5": "241ceced5c73de862c7f802289373ddb",
+   "articles": 6243,
+   "first_title": "### Нача (Полоцкий район) ###"
+  },
+  {
+   "file": "chunk_000570.txt",
+   "bytes": 20985529,
+   "md5": "afe56f6c01c0c1ad44db15309d87437f",
+   "articles": 4641,
+   "first_title": "### Торн, Тим ###"
+  },
+  {
+   "file": "chunk_000571.txt",
+   "bytes": 20973485,
+   "md5": "4ed1d92b7833691c222810072e0961d0",
+   "articles": 4260,
+   "first_title": "### Виамаджо (перевал) ###"
+  },
+  {
+   "file": "chunk_000572.txt",
+   "bytes": 20973202,
+   "md5": "70b82a8f7f7f370f354c1984e94e3d29",
+   "articles": 3933,
+   "first_title": "### Тепляков, Дмитрий Михайлович ###"
+  },
+  {
+   "file": "chunk_000573.txt",
+   "bytes": 20980930,
+   "md5": "2abb6238b9dc127678b5359abae46758",
+   "articles": 3798,
+   "first_title": "### Монин, Карлос ###"
+  },
+  {
+   "file": "chunk_000574.txt",
+   "bytes": 20974542,
+   "md5": "3558139a418f03b2aa5d5fe712e260ef",
+   "articles": 3937,
+   "first_title": "### Джанибек (Астраханский хан) ###"
+  },
+  {
+   "file": "chunk_000575.txt",
+   "bytes": 20972907,
+   "md5": "54c331c94ea2948dda6cb1f08876dc68",
+   "articles": 3963,
+   "first_title": "### Саджавахо (область) ###"
+  },
+  {
+   "file": "chunk_000576.txt",
+   "bytes": 20972375,
+   "md5": "6190c61a8498d5e5e5da881ba05ba392",
+   "articles": 3969,
+   "first_title": "### Герасимова, Светлана Викторовна ###"
+  },
+  {
+   "file": "chunk_000577.txt",
+   "bytes": 20975662,
+   "md5": "b8cd48e895b8b2083791cd9b1d5dfc3c",
+   "articles": 4068,
+   "first_title": "### Селе (приток Ло) ###"
+  },
+  {
+   "file": "chunk_000578.txt",
+   "bytes": 21168149,
+   "md5": "03348d48036252d6282877aa958d20c5",
+   "articles": 3702,
+   "first_title": "### Ophiactis ###"
+  },
+  {
+   "file": "chunk_000579.txt",
+   "bytes": 20971581,
+   "md5": "a4f48f94bae2b5171cbd1353d7eabb66",
+   "articles": 3957,
+   "first_title": "### Polar Security Cutter ###"
+  },
+  {
+   "file": "chunk_000580.txt",
+   "bytes": 20972665,
+   "md5": "4e40f4498f8a83fcfdc2d820c932c991",
+   "articles": 4033,
+   "first_title": "### Агаева, Татьяна Николаевна ###"
+  },
+  {
+   "file": "chunk_000581.txt",
+   "bytes": 20972721,
+   "md5": "6c617c84f7fc3f947021962db3bb769f",
+   "articles": 3724,
+   "first_title": "### Бриджуотер (Нью-Джерси) ###"
+  },
+  {
+   "file": "chunk_000582.txt",
+   "bytes": 20973358,
+   "md5": "ad9952aec5516baa83ad2a6afec05acb",
+   "articles": 3855,
+   "first_title": "### Исак Оулафссон ###"
+  },
+  {
+   "file": "chunk_000583.txt",
+   "bytes": 7334413,
+   "md5": "aa20350d0d9025baafef22e313546d89",
+   "articles": 1165,
+   "first_title": "### Румынская народная музыка ###"
+  }
+ ]
+}
