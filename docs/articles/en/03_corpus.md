@@ -11,15 +11,23 @@ An ENGRAMS model is corpus statistics. Everything it knows it knows from text, a
 
 ## 1. Where the text comes from
 
-The corpus is the Russian Wikipedia.
+The corpus is the Russian Wikipedia. The source is the official dump `ruwiki-latest-pages-articles.xml.bz2` from dumps.wikimedia.org: the build script took the latest dump at the time it was run. The script was created on 29.12.2025, and some of the fragments carry the same date, so the dump is the latest one available at the end of December 2025.
 
-> ⚠ **[The dump date and source are being confirmed by the author and will be filled in before publication.]**
+> ⚠ **[The exact dump date will be filled in from the dump file before publication.]**
 
-The text is split into **584 fragments** totalling 12,240,801,052 bytes (11.4 GiB). The fragments are nearly equal in size: median 20.98 million bytes, the last one 7.33 million. Each article starts with a line `### Title ###`, followed by paragraphs, one per line, and ends with `Категория:…` (Category) lines. Counting title lines gives **2,076,119 articles**, from 400 to 10,909 per fragment.
+The build is done by `scripts/part03/download_wiki_ru.py`:
+
+- only articles (namespace 0) and only the latest revision of each are taken;
+- wiki markup is stripped by the mwparserfromhell library (`strip_code`): links keep their visible text, and category links keep their name;
+- articles shorter than 100 characters are skipped;
+- each article is written as `### Title ###`, a blank line and the text;
+- the text is cut into 20 MiB fragments: a new fragment starts as soon as the current one reaches that size.
+
+The result is **584 fragments** totalling 12,240,801,052 bytes (11.4 GiB). The fragments are nearly equal in size: median 20.98 million bytes (the 20 MiB threshold plus the tail of the last article), the last one 7.33 million. Articles end with `Категория:…` (Category) lines: a category link becomes plain text once the markup is stripped. Counting title lines gives **2,076,119 articles**, from 400 to 10,909 per fragment.
 
 ![The 584 fragments: number of articles](../../figures/en/p3_fig02_fragments.png)
 
-The article count varies 27-fold at nearly equal size, so in the first fragments articles are on average much longer. We did not establish the reason for this order; what matters for measurement is that the part 2 tasks come from fragment 2, which has only 400 articles, i.e. long encyclopaedic texts.
+The article count varies 27-fold at nearly equal size, so in the first fragments articles are on average much longer. Articles follow the dump order; why long articles come first in it we did not check; what matters for measurement is that the part 2 tasks come from fragment 2, which has only 400 articles, i.e. long encyclopaedic texts.
 
 Wikipedia text is licensed under CC BY-SA 4.0. The fragment manifest (name, size, md5, article count, first title) is in `data/corpus/corpus_manifest_v3.json`. With the md5 sums anyone who rebuilds the corpus can check that they got the same files.
 
