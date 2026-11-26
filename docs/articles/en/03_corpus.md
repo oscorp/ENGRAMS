@@ -11,7 +11,7 @@ An ENGRAMS model is corpus statistics. Everything it knows it knows from text, a
 
 ## 1. Where the text comes from
 
-The corpus is the Russian Wikipedia. The source is the official dump `ruwiki-latest-pages-articles.xml.bz2` from dumps.wikimedia.org: the build script took the latest dump at the time it was run. The script was created on 29.12.2025, and some of the fragments carry the same date, so the dump is the latest one available at the end of December 2025.
+The corpus is the Russian Wikipedia. The source is the official dump `ruwiki-latest-pages-articles.xml.bz2` from dumps.wikimedia.org: the build script took the latest dump at the time it was run. The script was saved on 29.12.2025, and some of the fragments carry the same date, so the dump is most likely the latest one available at the end of December 2025.
 
 > ⚠ **[The exact dump date will be filled in from the dump file before publication.]**
 
