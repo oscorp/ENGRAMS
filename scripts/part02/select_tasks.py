@@ -41,7 +41,8 @@ def main():
     ap.add_argument('--tasks', default=str(ROOT / 'data/tasks/chunk_000002_tasks_3000.json'))
     ap.add_argument('--top', default=str(ROOT / 'data/tasks/top_lemmas_1000.json'))
     ap.add_argument('--n', type=int, default=300)
-    ap.add_argument('--lemma2id', default='', help='словарь лемм (часть 4), для разреза целей')
+    ap.add_argument('--lemma2id', default=str(ROOT / 'data/tokenizer_v3/lemma2id.json'),
+                    help='словарь лемм (часть 4), для разреза целей; пустая строка — без разреза')
     a, _ = ap.parse_known_args()
 
     d = json.loads(Path(a.tasks).read_text(encoding='utf-8'))

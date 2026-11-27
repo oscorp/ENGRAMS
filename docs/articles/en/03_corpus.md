@@ -29,7 +29,7 @@ The result is **584 fragments** totalling 12,240,801,052 bytes (11.4 GiB). The f
 
 The article count varies 27-fold at nearly equal size, so in the first fragments articles are on average much longer. Articles follow the dump order; why long articles come first in it we did not check; what matters for measurement is that the part 2 tasks come from fragment 2, which has only 400 articles, i.e. long encyclopaedic texts.
 
-Wikipedia text is licensed under CC BY-SA 4.0. The fragment manifest (name, size, md5, article count, first title) is in `data/corpus/corpus_manifest_v3.json`. With the md5 sums anyone who rebuilds the corpus can check that they got the same files.
+Wikipedia text is licensed under CC BY-SA 4.0. The fragment manifest (name, size, md5, article count, first title) is in `data/corpus/corpus_manifest_v3.json`. With the md5 sums anyone who rebuilds the corpus can check that they got the same files. The ready fragments are downloaded into a clone with `python scripts/fetch_data.py --what corpus` (from Hugging Face) and checked against the manifest with `python scripts/part03/check_manifest.py`; paths and run order: [`docs/DATA_PATHS.md`](../../DATA_PATHS.md).
 
 ## 2. Preparation: five steps
 

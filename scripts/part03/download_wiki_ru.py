@@ -7,8 +7,10 @@ download_wiki_ru.py - Скачивание и обработка русской 
 Разбор дампа: mwxml + mwparserfromhell (strip_code), только статьи
 (namespace 0), последняя ревизия, статьи короче 100 знаков пропускаются,
 каждая статья пишется как "### Заголовок ###", фрагменты по 20 МиБ.
-Для публикации изменён только путь по умолчанию для --chunks-dir
-и эта строка описания; логика сборки — как в исходном запуске.
+Для публикации изменены только пути по умолчанию (--output-dir, --chunks-dir:
+папки репозитория data/raw/, см. docs/DATA_PATHS.md) и это описание;
+логика сборки — как в исходном запуске.
+Запуск из корня репозитория: python scripts/part03/download_wiki_ru.py
 """
 
 import os
@@ -135,10 +137,11 @@ def extract_wiki_dump(dump_path: str, output_dir: str) -> bool:
 
 def main():
     parser = argparse.ArgumentParser(description="Скачать и обработать Wikipedia RU dump")
-    parser.add_argument("--output-dir", type=str, default="wiki_ru_dataset", 
-                        help="Директория для хранения dump файла")
-    parser.add_argument("--chunks-dir", type=str, default="chunks",
-                        help="Директория для чанков (по умолчанию: ./chunks)")
+    root = Path(__file__).resolve().parents[2]   # корень репозитория
+    parser.add_argument("--output-dir", type=str, default=str(root / "data/raw/wiki_dump"),
+                        help="Директория для хранения dump файла (по умолчанию: data/raw/wiki_dump)")
+    parser.add_argument("--chunks-dir", type=str, default=str(root / "data/corpus/chunks_584"),
+                        help="Директория для чанков (по умолчанию: data/corpus/chunks_584)")
     parser.add_argument("--skip-download", action="store_true",
                         help="Пропустить скачивание (если файл уже есть)")
     parser.add_argument("--dump-date", type=str, default="latest",

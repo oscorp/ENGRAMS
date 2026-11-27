@@ -4,8 +4,16 @@ __pycache__/
 .DS_Store
 # большие данные живут на Hugging Face, не в git
 data/raw/
+data/work/
 data/matrices/
 data/memory/
 *.npz
 *.npy
 *.pkl
+# корпус и потоки — на Hugging Face (scripts/fetch_data.py); в git только фрагмент 2
+data/corpus/chunks_584/*
+!data/corpus/chunks_584/chunk_000002.txt
+data/streams_v3/*/*
+!data/streams_v3/lemmas_npy_v3/chunk_000002.npy
+!data/streams_v3/morph_npy_v3/chunk_000002.npy
+!data/streams_v3/spans_v3/sent_spans_chunk_000002.pkl

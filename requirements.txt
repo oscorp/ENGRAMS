@@ -1,0 +1,13 @@
+# ENGRAMS: зависимости всех частей / dependencies of all parts
+# pip install -r requirements.txt
+# python -m spacy download ru_core_news_lg     (модель spaCy для частей 3–4, ~500 МБ)
+numpy>=2.0
+matplotlib>=3.9          # рисунки (части 1–4); для .mp4 нужен ffmpeg в PATH
+pillow>=10
+requests>=2.31           # часть 3: скачивание дампа Википедии
+tqdm>=4.66
+mwxml>=0.3.3             # часть 3: разбор XML-дампа
+mwparserfromhell>=0.6.5  # часть 3: снятие вики-разметки
+spacy>=3.7,<4            # часть 4: лемматизация
+razdel>=0.5              # часть 4: границы предложений
+huggingface_hub>=0.25    # scripts/fetch_data.py: корпус и потоки с Hugging Face

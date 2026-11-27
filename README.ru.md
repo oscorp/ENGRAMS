@@ -27,31 +27,46 @@ ENGRAMS — модель языка, построенная на статист�
 | 1 | [Обзор: статистика вместо её аппроксимации](docs/articles/ru/01_overview.md) | опубликована |
 | 2 | [Как мы меряем: задачи, режимы leak и gen, шум и правило нуля](docs/articles/ru/02_measurement.md) | опубликована |
 | 3 | [Корпус: откуда текст и почему рецепт подготовки нельзя менять](docs/articles/ru/03_corpus.md) | опубликована |
-| 4–6 | Леммы, почему не BPE, отрезки и пары | впереди |
+| 4 | [Леммы как объекты: токенизатор v3](docs/articles/ru/04_lemmas.md) | опубликована |
+| 5–6 | Почему не BPE, отрезки и пары | впереди |
 | 7–10 | Ранговые матрицы и B = Fᵀ, веса Ципфа, нормировка → PMI, PMI без счётчиков | впереди |
 | 11–17 | Геометрическое среднее, облака, память окон, воспоминание, n-граммы, переключение, чемпион целиком | впереди |
 | 18–19 | Словарь: общая лексика и имена; итоги и открытые направления | впереди |
+
+## Как запустить
+
+Клон работает сразу: все скрипты запускаются из корня репозитория и пишут только в его папки.
+
+```bash
+git clone https://github.com/oscorp/ENGRAMS.git && cd ENGRAMS
+pip install -r requirements.txt
+python -m spacy download ru_core_news_lg     # модель spaCy для частей 3–4
+python scripts/smoke_test.py                 # проверка конвейера частей 3–4 на маленьком примере
+```
+
+То же в Jupyter: `%pip install -r requirements.txt`, затем `!python …` для каждой команды.
+
+| часть | команда |
+|---|---|
+| 1–4, рисунки | `python docs/figures/make_part01_figures.py` … `make_part04_figures.py` |
+| 2, рабочие 300 задач | `python scripts/part02/select_tasks.py` |
+| 3, корпус | `python scripts/fetch_data.py --what corpus`, проверка `python scripts/part03/check_manifest.py` |
+| 3, подготовка строки | `python scripts/part03/preprocess_v3.py --demo` |
+| 4, потоки | `python scripts/fetch_data.py --what streams` или сборка `python scripts/part04/build_streams_v3.py` |
+
+Где лежат данные, что скачивается с Hugging Face и какие ссылки пока заглушки: [docs/DATA_PATHS.md](docs/DATA_PATHS.md).
 
 ## Устройство репозитория
 
 ```
 docs/articles/{ru,en}/   статьи, по одной на часть и язык
 docs/figures/            скрипты рисунков и сами рисунки
-src/engrams/             код библиотеки (с части 2)
-scripts/                 скрипты по частям (scripts/partNN/)
-data/                    словари и данные автора; большие файлы на Hugging Face
+scripts/                 скрипты по частям (scripts/partNN/), проверка smoke_test.py, загрузка fetch_data.py
+data/                    задачи, словарь, манифест корпуса, фрагмент 2; большие файлы на Hugging Face
+requirements.txt         зависимости всех частей
 ```
 
 Правила проекта, по которым получены все числа: [docs/RULES.ru.md](docs/RULES.ru.md).
-
-Пересобрать рисунки частей 1–3 (ячейка Jupyter):
-
-```
-%pip install numpy matplotlib
-%run docs/figures/make_part01_figures.py
-%run docs/figures/make_part02_figures.py
-%run docs/figures/make_part03_figures.py
-```
 
 ## Лицензия
 
